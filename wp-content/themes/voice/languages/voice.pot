@@ -1,0 +1,4159 @@
+# Copyright (C) 2021 voice
+# This file is distributed under the same license as the voice package.
+msgid ""
+msgstr ""
+"Project-Id-Version: voice\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: core/admin/demo-importer.php:15
+msgid "Voice Setup Wizard"
+msgstr ""
+
+#: core/admin/demo-importer.php:16
+msgid "%s%s Themes &lsaquo; Theme Setup: %s%s"
+msgstr ""
+
+#: core/admin/demo-importer.php:17
+msgid "Return to the dashboard"
+msgstr ""
+
+#: core/admin/demo-importer.php:18
+msgid "Disable this wizard"
+msgstr ""
+
+#: core/admin/demo-importer.php:20
+msgid "Skip"
+msgstr ""
+
+#: core/admin/demo-importer.php:21, core/translate.php:15, core/translate.php:30
+msgid "Next"
+msgstr ""
+
+#: core/admin/demo-importer.php:22
+msgid "Start"
+msgstr ""
+
+#: core/admin/demo-importer.php:23
+msgid "Cancel"
+msgstr ""
+
+#: core/admin/demo-importer.php:24, core/admin/demo-importer.php:26, core/admin/demo-importer.php:27, inc/tgm/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: core/admin/demo-importer.php:28
+msgid "Import"
+msgstr ""
+
+#: core/admin/demo-importer.php:29, core/admin/metaboxes/page.php:554, core/admin/metaboxes/page.php:616, core/admin/metaboxes/page.php:641, core/admin/metaboxes/page.php:664, core/admin/metaboxes/page.php:689, inc/tgm/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: core/admin/demo-importer.php:30
+msgid "Later"
+msgstr ""
+
+#: core/admin/demo-importer.php:32
+msgid "Welcome to %s"
+msgstr ""
+
+#: core/admin/demo-importer.php:33
+msgid "Hi. Welcome back"
+msgstr ""
+
+#: core/admin/demo-importer.php:34
+msgid "This wizard will set up your theme, install plugins, and import content. It is optional & should take only a few minutes."
+msgstr ""
+
+#: core/admin/demo-importer.php:35
+msgid "You may have already run this theme setup wizard. If you would like to proceed anyway, click on the \"Start\" button below."
+msgstr ""
+
+#: core/admin/demo-importer.php:37
+msgid "Activate %s"
+msgstr ""
+
+#: core/admin/demo-importer.php:38
+msgid "%s is Activated"
+msgstr ""
+
+#: core/admin/demo-importer.php:39
+msgid "Enter your license key to enable remote updates and theme support."
+msgstr ""
+
+#: core/admin/demo-importer.php:40
+msgid "License key"
+msgstr ""
+
+#: core/admin/demo-importer.php:41
+msgid "The theme is already registered, so you can go to the next step!"
+msgstr ""
+
+#: core/admin/demo-importer.php:42
+msgid "Your theme is activated! Remote updates and theme support are enabled."
+msgstr ""
+
+#: core/admin/demo-importer.php:43
+msgid "Need help?"
+msgstr ""
+
+#: core/admin/demo-importer.php:45
+msgid "Install Child Theme"
+msgstr ""
+
+#: core/admin/demo-importer.php:46
+msgid "You're good to go!"
+msgstr ""
+
+#: core/admin/demo-importer.php:47
+msgid "Let's build & activate a child theme so you may easily make theme changes."
+msgstr ""
+
+#: core/admin/demo-importer.php:48
+msgid "Your child theme has already been installed and is now activated, if it wasn't already."
+msgstr ""
+
+#: core/admin/demo-importer.php:49
+msgid "Learn about child themes"
+msgstr ""
+
+#: core/admin/demo-importer.php:50
+msgid "Awesome. Your child theme has already been installed and is now activated."
+msgstr ""
+
+#: core/admin/demo-importer.php:51
+msgid "Awesome. Your child theme has been created and is now activated."
+msgstr ""
+
+#: core/admin/demo-importer.php:53, inc/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: core/admin/demo-importer.php:54
+msgid "You're up to speed!"
+msgstr ""
+
+#: core/admin/demo-importer.php:55
+msgid "Let's install some essential WordPress plugins to get your site up to speed."
+msgstr ""
+
+#: core/admin/demo-importer.php:56
+msgid "The required WordPress plugins are all installed and up to date. Press \"Next\" to continue the setup wizard."
+msgstr ""
+
+#: core/admin/demo-importer.php:57
+msgid "Plugins"
+msgstr ""
+
+#: core/admin/demo-importer.php:59
+msgid "Import Content"
+msgstr ""
+
+#: core/admin/demo-importer.php:60
+msgid "Let's import content to your website, to help you get familiar with the theme."
+msgstr ""
+
+#: core/admin/demo-importer.php:61
+msgid "Details"
+msgstr ""
+
+#: core/admin/demo-importer.php:63
+msgid "All done. Have fun!"
+msgstr ""
+
+#: core/admin/demo-importer.php:64
+msgid "Your theme has been all set up. Enjoy your new theme by %s."
+msgstr ""
+
+#: core/admin/demo-importer.php:65
+msgid "Extras"
+msgstr ""
+
+#: core/admin/demo-importer.php:66
+msgid "View your website"
+msgstr ""
+
+#: core/admin/demo-importer.php:69
+msgid "Theme Documentation"
+msgstr ""
+
+#: core/admin/demo-importer.php:73
+msgid "Start Customizing"
+msgstr ""
+
+#: core/admin/extensions.php:51
+msgid "Important: Redux Framework plugin is required to run your theme options panel. Please visit <a href=\"%s\">recommended plugins page</a> to install it."
+msgstr ""
+
+#: core/admin/extensions.php:181
+msgid "Make widget content full-width"
+msgstr ""
+
+#: core/admin/extensions.php:182
+msgid "Check this option if you want to expand your widget content to 300px"
+msgstr ""
+
+#: core/admin/extensions.php:222
+msgid "Show social networks"
+msgstr ""
+
+#: core/admin/extensions.php:223
+msgid "Check this box to show social networks"
+msgstr ""
+
+#: core/admin/extensions.php:228
+msgid "Show social networks:"
+msgstr ""
+
+#: core/admin/extensions.php:229
+msgid "Check this box to display social networks"
+msgstr ""
+
+#: core/admin/helpers.php:11, core/admin/helpers.php:31, core/admin/helpers.php:59, core/admin/helpers.php:114, core/admin/helpers.php:137, core/admin/helpers.php:423
+msgid "Inherit"
+msgstr ""
+
+#: core/admin/helpers.php:14
+msgid "No sidebar (full width)"
+msgstr ""
+
+#: core/admin/helpers.php:15
+msgid "Left sidebar"
+msgstr ""
+
+#: core/admin/helpers.php:16
+msgid "Right sidebar"
+msgstr ""
+
+#: core/admin/helpers.php:35
+msgid "Standard"
+msgstr ""
+
+#: core/admin/helpers.php:40
+msgid "Cover"
+msgstr ""
+
+#: core/admin/helpers.php:62, core/admin/helpers.php:118, core/admin/helpers.php:141, core/admin/helpers.php:375, core/admin/helpers.php:390, core/modules.php:255
+msgid "None"
+msgstr ""
+
+#: core/admin/helpers.php:91, core/admin/metaboxes/page.php:11, core/admin/metaboxes/post.php:11, core/sidebars.php:43
+msgid "Sidebar"
+msgstr ""
+
+#: core/admin/helpers.php:121
+msgid "Big post + slider below"
+msgstr ""
+
+#: core/admin/helpers.php:122
+msgid "Big post(s) only"
+msgstr ""
+
+#: core/admin/helpers.php:123
+msgid "Slider only"
+msgstr ""
+
+#: core/admin/helpers.php:124
+msgid "Big Slider only"
+msgstr ""
+
+#: core/admin/helpers.php:144, core/admin/options-fields.php:970, core/admin/options-fields.php:978, core/admin/options-fields.php:2698
+msgid "Layout A"
+msgstr ""
+
+#: core/admin/helpers.php:145, core/admin/options-fields.php:1069, core/admin/options-fields.php:1077, core/admin/options-fields.php:2709
+msgid "Layout B"
+msgstr ""
+
+#: core/admin/helpers.php:146, core/admin/options-fields.php:1146, core/admin/options-fields.php:1155, core/admin/options-fields.php:2720
+msgid "Layout C"
+msgstr ""
+
+#: core/admin/helpers.php:147, core/admin/options-fields.php:1234, core/admin/options-fields.php:1242, core/admin/options-fields.php:2731
+msgid "Layout D"
+msgstr ""
+
+#: core/admin/helpers.php:148, core/admin/options-fields.php:1292, core/admin/options-fields.php:1300, core/admin/options-fields.php:2742
+msgid "Layout E"
+msgstr ""
+
+#: core/admin/helpers.php:149, core/admin/options-fields.php:1349, core/admin/options-fields.php:1357, core/admin/options-fields.php:2753
+msgid "Layout F"
+msgstr ""
+
+#: core/admin/helpers.php:150, core/admin/options-fields.php:1382, core/admin/options-fields.php:1390, core/admin/options-fields.php:2764
+msgid "Layout G"
+msgstr ""
+
+#: core/admin/helpers.php:151, core/admin/options-fields.php:1460, core/admin/options-fields.php:1468, core/admin/options-fields.php:2775
+msgid "Layout H"
+msgstr ""
+
+#: core/admin/helpers.php:163
+msgid "One Column"
+msgstr ""
+
+#: core/admin/helpers.php:164
+msgid "Two Columns"
+msgstr ""
+
+#: core/admin/helpers.php:165
+msgid "Five Columns"
+msgstr ""
+
+#: core/admin/helpers.php:177
+msgid "Prev/Next page links"
+msgstr ""
+
+#: core/admin/helpers.php:178
+msgid "Numeric pagination links"
+msgstr ""
+
+#: core/admin/helpers.php:179
+msgid "Load more button"
+msgstr ""
+
+#: core/admin/helpers.php:180, core/admin/options-fields.php:1728
+msgid "Infinite scroll"
+msgstr ""
+
+#: core/admin/helpers.php:195, core/admin/helpers.php:345
+msgid "Date"
+msgstr ""
+
+#: core/admin/helpers.php:196
+msgid "Comments"
+msgstr ""
+
+#: core/admin/helpers.php:197
+msgid "Author"
+msgstr ""
+
+#: core/admin/helpers.php:198, core/translate.php:26
+msgid "Views"
+msgstr ""
+
+#: core/admin/helpers.php:199
+msgid "Reading time"
+msgstr ""
+
+#: core/admin/helpers.php:200, core/admin/helpers.php:349
+msgid "Modified date"
+msgstr ""
+
+#: core/admin/helpers.php:203
+msgid "Reviews"
+msgstr ""
+
+#: core/admin/helpers.php:304
+msgid "This moment"
+msgstr ""
+
+#: core/admin/helpers.php:305, core/admin/helpers.php:316, core/admin/options-fields.php:3071
+msgid "1 Day"
+msgstr ""
+
+#: core/admin/helpers.php:306, core/admin/helpers.php:317
+msgid "3 Days"
+msgstr ""
+
+#: core/admin/helpers.php:307, core/admin/helpers.php:318, core/admin/options-fields.php:3072
+msgid "1 Week"
+msgstr ""
+
+#: core/admin/helpers.php:308, core/admin/helpers.php:319, core/admin/options-fields.php:3073
+msgid "1 Month"
+msgstr ""
+
+#: core/admin/helpers.php:309, core/admin/helpers.php:320, core/admin/options-fields.php:3074
+msgid "3 Months"
+msgstr ""
+
+#: core/admin/helpers.php:310, core/admin/helpers.php:321, core/admin/options-fields.php:3075
+msgid "6 Months"
+msgstr ""
+
+#: core/admin/helpers.php:311, core/admin/helpers.php:322, core/admin/options-fields.php:3076
+msgid "1 Year"
+msgstr ""
+
+#: core/admin/helpers.php:323
+msgid "All time"
+msgstr ""
+
+#: core/admin/helpers.php:346
+msgid "Number of comments"
+msgstr ""
+
+#: core/admin/helpers.php:347
+msgid "Number of views"
+msgstr ""
+
+#: core/admin/helpers.php:348
+msgid "Title (alphabetically)"
+msgstr ""
+
+#: core/admin/helpers.php:350
+msgid "Random"
+msgstr ""
+
+#: core/admin/helpers.php:355
+msgid "Author Reviews (stars)"
+msgstr ""
+
+#: core/admin/helpers.php:356
+msgid "Author Reviews (points)"
+msgstr ""
+
+#: core/admin/helpers.php:357
+msgid "Author Reviews (percentage)"
+msgstr ""
+
+#: core/admin/helpers.php:359
+msgid "User Reviews (stars)"
+msgstr ""
+
+#: core/admin/helpers.php:360
+msgid "User Reviews (points)"
+msgstr ""
+
+#: core/admin/helpers.php:361
+msgid "User Reviews (percentage)"
+msgstr ""
+
+#: core/admin/helpers.php:376
+msgid "Top navigation menu"
+msgstr ""
+
+#: core/admin/helpers.php:377, core/admin/helpers.php:392, core/admin/options-fields.php:416, core/menus.php:11
+msgid "Social menu"
+msgstr ""
+
+#: core/admin/helpers.php:378
+msgid "Search form"
+msgstr ""
+
+#: core/admin/helpers.php:391
+msgid "Footer menu"
+msgstr ""
+
+#: core/admin/helpers.php:393
+msgid "Copyright text"
+msgstr ""
+
+#: core/admin/helpers.php:423
+msgid "On"
+msgstr ""
+
+#: core/admin/helpers.php:423
+msgid "Off"
+msgstr ""
+
+#: core/admin/metaboxes/category.php:17, core/admin/metaboxes/category.php:193, core/admin/options-fields.php:1980
+msgid "Featured area layout"
+msgstr ""
+
+#: core/admin/metaboxes/category.php:29, core/admin/metaboxes/category.php:207
+msgid "Choose featured area layout"
+msgstr ""
+
+#: core/admin/metaboxes/category.php:34
+msgid "Featured posts limit"
+msgstr ""
+
+#: core/admin/metaboxes/category.php:35, core/admin/metaboxes/category.php:57, core/admin/metaboxes/category.php:81, core/admin/metaboxes/category.php:219, core/admin/metaboxes/category.php:251, core/admin/metaboxes/category.php:283
+msgid "post(s)"
+msgstr ""
+
+#: core/admin/metaboxes/category.php:39, core/admin/metaboxes/category.php:225
+msgid "Posts main layout"
+msgstr ""
+
+#: core/admin/metaboxes/category.php:51, core/admin/metaboxes/category.php:239
+msgid "Choose posts layout for this category"
+msgstr ""
+
+#: core/admin/metaboxes/category.php:56, core/admin/metaboxes/category.php:248
+msgid "Number of posts per page"
+msgstr ""
+
+#: core/admin/metaboxes/category.php:58, core/admin/metaboxes/category.php:252
+msgid "Note: leave empty if you want to inherit from global category option"
+msgstr ""
+
+#: core/admin/metaboxes/category.php:62
+msgid "Starter posts"
+msgstr ""
+
+#: core/admin/metaboxes/category.php:74, core/admin/metaboxes/category.php:273
+msgid "Check if you want to use starter posts"
+msgstr ""
+
+#: core/admin/metaboxes/category.php:80, core/admin/metaboxes/category.php:280
+msgid "Starter posts limit"
+msgstr ""
+
+#: core/admin/metaboxes/category.php:85, core/admin/metaboxes/category.php:290, core/admin/metaboxes/post.php:102, core/admin/options-fields.php:1572, core/admin/options-fields.php:1886, core/admin/options-fields.php:2077, core/admin/options-fields.php:2157, core/admin/options-fields.php:2236, core/admin/options-fields.php:2315, core/admin/options-fields.php:2447
+msgid "Sidebar layout"
+msgstr ""
+
+#: core/admin/metaboxes/category.php:97, core/admin/metaboxes/category.php:304
+msgid "Choose sidebar layout"
+msgstr ""
+
+#: core/admin/metaboxes/category.php:102, core/admin/metaboxes/category.php:310
+msgid "Standard sidebar"
+msgstr ""
+
+#: core/admin/metaboxes/category.php:108, core/admin/metaboxes/category.php:318, core/admin/metaboxes/post.php:111
+msgid "Choose standard sidebar to display"
+msgstr ""
+
+#: core/admin/metaboxes/category.php:111, core/admin/metaboxes/category.php:323
+msgid "Sticky sidebar"
+msgstr ""
+
+#: core/admin/metaboxes/category.php:117, core/admin/metaboxes/category.php:331, core/admin/metaboxes/post.php:118
+msgid "Choose sticky sidebar to display"
+msgstr ""
+
+#: core/admin/metaboxes/category.php:128, core/admin/metaboxes/category.php:342
+msgid "Recently used"
+msgstr ""
+
+#: core/admin/metaboxes/category.php:138, core/admin/metaboxes/category.php:352
+msgid "Color"
+msgstr ""
+
+#: core/admin/metaboxes/category.php:140, core/admin/metaboxes/category.php:355
+msgid "Inherit from default accent color"
+msgstr ""
+
+#: core/admin/metaboxes/category.php:143, core/admin/metaboxes/category.php:358
+msgid "Custom"
+msgstr ""
+
+#: core/admin/metaboxes/category.php:156, core/admin/metaboxes/category.php:371
+msgid "Choose color"
+msgstr ""
+
+#: core/admin/metaboxes/category.php:160, core/admin/metaboxes/category.php:376
+msgid "Image"
+msgstr ""
+
+#: core/admin/metaboxes/category.php:168, core/admin/metaboxes/category.php:385
+msgid "Upload"
+msgstr ""
+
+#: core/admin/metaboxes/category.php:169, core/admin/metaboxes/category.php:386
+msgid "Clear"
+msgstr ""
+
+#: core/admin/metaboxes/category.php:172, core/admin/metaboxes/category.php:389
+msgid "Upload an image for this category"
+msgstr ""
+
+#: core/admin/metaboxes/category.php:216
+msgid "Featured area posts limit"
+msgstr ""
+
+#: core/admin/metaboxes/category.php:258
+msgid "Starter posts layout"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:21, core/admin/metaboxes/post.php:21
+msgid "Layout"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:31
+msgid "Featured Area/Slider"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:41, template-modules.php:3
+msgid "Modules"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:51, template-authors.php:3
+msgid "Authors"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:61
+msgid "Page Content/Editor Options"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:235
+msgid "Choose a layout for this page"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:254, core/admin/metaboxes/page.php:839, core/admin/metaboxes/page.php:1248, core/admin/metaboxes/page.php:1727
+msgid "Choose layout"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:274
+msgid "Post type"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:291
+msgid "Number of posts to show"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:300, core/admin/metaboxes/page.php:1495
+msgid "Choose manually"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:303, core/admin/metaboxes/page.php:1092, core/admin/metaboxes/page.php:1500
+msgid "Type to search..."
+msgstr ""
+
+#: core/admin/metaboxes/page.php:315, core/admin/metaboxes/page.php:1057, core/admin/metaboxes/page.php:1465
+msgid "Order posts by"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:328, core/admin/metaboxes/page.php:1071, core/admin/metaboxes/page.php:1479
+msgid "Sort"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:334, core/admin/metaboxes/page.php:1076, core/admin/metaboxes/page.php:1484
+msgid "Descending"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:337, core/admin/metaboxes/page.php:1080, core/admin/metaboxes/page.php:1488
+msgid "Ascending"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:343, core/admin/options-fields.php:2019
+msgid "Do not duplicate"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:348
+msgid "Check this option to always exclude featured area posts from modules below so they don't appear twice"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:425, core/admin/metaboxes/page.php:420
+msgid "Separate %s with commas"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:410
+msgid "Add or remove %s "
+msgstr ""
+
+#: core/admin/metaboxes/page.php:414
+msgid "Add new %s "
+msgstr ""
+
+#: core/admin/metaboxes/page.php:402
+msgid "Apply child %s"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:404
+msgid "Check whether you want to display posts from specific %s only"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:433, core/admin/metaboxes/page.php:456, core/admin/metaboxes/page.php:957, core/admin/metaboxes/page.php:981, core/admin/metaboxes/page.php:1006, core/admin/metaboxes/page.php:1384, core/admin/metaboxes/page.php:1411
+msgid "Include"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:435, core/admin/metaboxes/page.php:459, core/admin/metaboxes/page.php:961, core/admin/metaboxes/page.php:985, core/admin/metaboxes/page.php:1010, core/admin/metaboxes/page.php:1389, core/admin/metaboxes/page.php:1415
+msgid "Exclude"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:437
+msgid "Whether to include or exclude posts from selected %s"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:447, core/admin/metaboxes/page.php:996, core/admin/metaboxes/page.php:1400
+msgid "Filter by author (username)"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:460, core/admin/metaboxes/page.php:1012, core/admin/metaboxes/page.php:1417
+msgid "Whether to include or exclude author posts"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:465, core/admin/metaboxes/page.php:1018, core/admin/metaboxes/page.php:1423
+msgid "Exclude by id"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:471, core/admin/metaboxes/page.php:1024, core/admin/metaboxes/page.php:1429
+msgid "Specify post ids separated by comma i.e. 213,32,12,45"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:476
+msgid "Posts are not older than"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:552, core/admin/metaboxes/page.php:614, core/admin/metaboxes/page.php:639, core/admin/metaboxes/page.php:663, core/admin/metaboxes/page.php:687
+msgid "Edit"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:555, core/admin/metaboxes/page.php:616, core/admin/metaboxes/page.php:641, core/admin/metaboxes/page.php:664, core/admin/metaboxes/page.php:689
+msgid "Deactivate"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:558, core/admin/metaboxes/page.php:619, core/admin/metaboxes/page.php:644, core/admin/metaboxes/page.php:666, core/admin/metaboxes/page.php:692
+msgid "Remove"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:587
+msgid "Posts module"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:590
+msgid "Blank module"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:593
+msgid "Category module"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:597
+msgid " module "
+msgstr ""
+
+#: core/admin/metaboxes/page.php:608
+msgid "Posts"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:633
+msgid "Blank"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:658
+msgid "Category"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:728
+msgid "Order by"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:736
+msgid "Order"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:742
+msgid "Exclude authors"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:744
+msgid "Enter author IDs separated by comma"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:759
+msgid "Display page content:"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:762
+msgid "Above modules"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:765
+msgid "Below modules"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:768
+msgid "Do not display"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:771
+msgid "Style:"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:774
+msgid "Wrapped in box"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:777
+msgid "Unwrapped (transparent background)"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:780
+msgid "Width:"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:783
+msgid "Container/page width"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:786
+msgid "Full/browser width"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:789
+msgid "Manage display options for content/editor on this page"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:804, core/admin/metaboxes/page.php:1213, core/admin/metaboxes/page.php:1692
+msgid "Appearance"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:805, core/admin/metaboxes/page.php:1214
+msgid "Combine layouts"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:806, core/admin/metaboxes/page.php:1215
+msgid "Post selection"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:807, core/admin/metaboxes/page.php:1216, core/admin/metaboxes/page.php:1694
+msgid "Action"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:812, core/admin/metaboxes/page.php:1222, core/admin/metaboxes/page.php:1622, core/admin/metaboxes/page.php:1701
+msgid "Title"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:819, core/admin/metaboxes/page.php:1229, core/admin/metaboxes/page.php:1629, core/admin/metaboxes/page.php:1708
+msgid "Do not display publicly"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:821, core/admin/metaboxes/page.php:1231, core/admin/metaboxes/page.php:1631, core/admin/metaboxes/page.php:1710
+msgid "Enter your module title"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:828, core/admin/metaboxes/page.php:1237, core/admin/metaboxes/page.php:1636, core/admin/metaboxes/page.php:1716
+msgid "Title link"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:833, core/admin/metaboxes/page.php:1242, core/admin/metaboxes/page.php:1641, core/admin/metaboxes/page.php:1721
+msgid "Optionally, you can assign URL to title"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:856, core/admin/metaboxes/page.php:1266
+msgid "Choose your main posts layout"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:862, core/admin/metaboxes/page.php:1272
+msgid "Max number of posts"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:867, core/admin/metaboxes/page.php:1277
+msgid "Specify maximum number of posts for this module"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:874, core/admin/metaboxes/page.php:1284, core/admin/metaboxes/page.php:1656
+msgid "Make this module one-column (half width)"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:879, core/admin/metaboxes/page.php:1289
+msgid "This option may apply to layouts C, D and F which are naturally listed in two columns"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:885, core/admin/metaboxes/page.php:1296, core/admin/metaboxes/page.php:1666, core/admin/metaboxes/page.php:1775
+msgid "Custom CSS class"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:890, core/admin/metaboxes/page.php:1301, core/admin/metaboxes/page.php:1671, core/admin/metaboxes/page.php:1780
+msgid "Specify class name for a possibility to apply custom styling to this module using CSS (i.e. my-custom-module)"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:899, core/admin/metaboxes/page.php:1311
+msgid "Choose starter posts layout"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:922, core/admin/metaboxes/page.php:1335, core/admin/options-fields.php:2067
+msgid "Number of starter posts"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:927, core/admin/metaboxes/page.php:1340
+msgid "Choose additional layout if you want to combine two layouts in same module so the first posts will be displayed in different layout"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:936
+msgid "Filter by category"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:948
+msgid "Check whether you want to display posts from specific categories only. Or leave empty for all categories."
+msgstr ""
+
+#: core/admin/metaboxes/page.php:952
+msgid "Apply child categories"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:953
+msgid "If parent category is selected, posts from child categories will be included automatically"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:963
+msgid "Whether to include or exclude posts from selected categories"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:972
+msgid "Filter by tag"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:976
+msgid "Specify one or more tags separated by comma. i.e. life, cooking, funny moments"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:987
+msgid "Whether to include or exclude posts from selected tags"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1030, core/admin/metaboxes/page.php:1437
+msgid "Not older than"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1038, core/admin/metaboxes/page.php:1445
+msgid "Display posts that are not older than some specific time"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1043, core/admin/metaboxes/page.php:1451
+msgid "Older than"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1051, core/admin/metaboxes/page.php:1459
+msgid "Display posts that are older than some specific time"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1065, core/admin/metaboxes/page.php:1473
+msgid "Specify posts ordering"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1087
+msgid "Choose posts (or pages) manually"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1101, core/admin/metaboxes/page.php:1511
+msgid "Do not duplicate (display only in this module)"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1109, core/admin/metaboxes/page.php:1518
+msgid "Check this option if you want posts in this module to be excluded from other modules so they don't appear twice"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1118, core/admin/metaboxes/page.php:1527, core/admin/metaboxes/page.php:1816
+msgid "Choose additional options"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1134, core/admin/metaboxes/page.php:1544
+msgid "Choose pagination type"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1151, core/admin/metaboxes/page.php:1561
+msgid "Note: Pagination can be added only for the last module on the page"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1162, core/admin/metaboxes/page.php:1571
+msgid "Link/Button Text"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1168, core/admin/metaboxes/page.php:1577
+msgid "Link/Button URL"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1183, core/admin/metaboxes/page.php:1591, core/admin/metaboxes/page.php:1832
+msgid "Autoplay slider posts"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1189, core/admin/metaboxes/page.php:1597, core/admin/metaboxes/page.php:1838
+msgid "Specify number of seconds if you want to auto-slide posts, or leave empty for no autoplay"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1354
+msgid "In "
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1377
+msgid "Specify one or more terms separated by comma. i.e. life, cooking, funny moments"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1370
+msgid "Check whether you want to display posts from specific"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1646
+msgid "Content"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1650
+msgid "You can put any text, HTML, JavaScript or shortcodes here"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1693
+msgid "Category selection"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1744
+msgid "Choose your category layout"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1750
+msgid "Display posts count"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1764
+msgid "Count label"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1789
+msgid "Categories"
+msgstr ""
+
+#: core/admin/metaboxes/page.php:1806
+msgid "Note: You can reorder categories, just click hold and drag it up or down."
+msgstr ""
+
+#: core/admin/metaboxes/post.php:31
+msgid "Display Options"
+msgstr ""
+
+#: core/admin/metaboxes/post.php:144
+msgid "Choose a layout for this post"
+msgstr ""
+
+#: core/admin/metaboxes/post.php:156
+msgid "Override display options for this particular post instead of using global options set in Theme Options -> Single Post"
+msgstr ""
+
+#: core/admin/metaboxes/post.php:157
+msgid "Category link"
+msgstr ""
+
+#: core/admin/metaboxes/post.php:159
+msgid "Featured image"
+msgstr ""
+
+#: core/admin/metaboxes/post.php:161
+msgid "Author image"
+msgstr ""
+
+#: core/admin/metaboxes/post.php:164
+msgid "Headline (excerpt)"
+msgstr ""
+
+#: core/admin/metaboxes/post.php:166
+msgid "Tags"
+msgstr ""
+
+#: core/admin/metaboxes/post.php:168
+msgid "Prev/next posts"
+msgstr ""
+
+#: core/admin/metaboxes/post.php:170
+msgid "Related posts"
+msgstr ""
+
+#: core/admin/metaboxes/post.php:172
+msgid "Author box"
+msgstr ""
+
+#: core/admin/options-fields.php:6
+msgid "Header"
+msgstr ""
+
+#: core/admin/options-fields.php:17
+msgid "Main"
+msgstr ""
+
+#: core/admin/options-fields.php:25
+msgid "Main header"
+msgstr ""
+
+#: core/admin/options-fields.php:26
+msgid "These are options to modify and style your main header arear"
+msgstr ""
+
+#: core/admin/options-fields.php:33
+msgid "Header layout"
+msgstr ""
+
+#: core/admin/options-fields.php:34
+msgid "Choose header layout"
+msgstr ""
+
+#: core/admin/options-fields.php:36
+msgid "1 (centered)"
+msgstr ""
+
+#: core/admin/options-fields.php:37
+msgid "2 (with ad space)"
+msgstr ""
+
+#: core/admin/options-fields.php:38
+msgid "3 (minimal)"
+msgstr ""
+
+#: core/admin/options-fields.php:47
+msgid "Header height"
+msgstr ""
+
+#: core/admin/options-fields.php:48
+msgid "Specify height for your header area"
+msgstr ""
+
+#: core/admin/options-fields.php:49
+msgid "Note: Height value is in px."
+msgstr ""
+
+#: core/admin/options-fields.php:57
+msgid "Header ad space"
+msgstr ""
+
+#: core/admin/options-fields.php:58
+msgid "This is a place for header banner ad"
+msgstr ""
+
+#: core/admin/options-fields.php:60
+msgid "Note: If you want to paste HTML or js code, use \"text\" mode in editor. Suggested size of an ad banner is 728x90"
+msgstr ""
+
+#: core/admin/options-fields.php:72
+msgid "Logo"
+msgstr ""
+
+#: core/admin/options-fields.php:73
+msgid "Upload your logo image here, or leave empty to show website title instead"
+msgstr ""
+
+#: core/admin/options-fields.php:81
+msgid "Retina logo (2x)"
+msgstr ""
+
+#: core/admin/options-fields.php:82
+msgid "Optionally upload another logo for devices with retina displays. It should be double size of your normal logo."
+msgstr ""
+
+#: core/admin/options-fields.php:90
+msgid "Mobile logo"
+msgstr ""
+
+#: core/admin/options-fields.php:91
+msgid "Optionally upload another logo which will be displayed only for mobiles and tablets"
+msgstr ""
+
+#: core/admin/options-fields.php:99
+msgid "Mobile retina logo (2x)"
+msgstr ""
+
+#: core/admin/options-fields.php:100
+msgid "Optionally upload another mobile logo which will be displayed only for mobiles and tablets with retina displays."
+msgstr ""
+
+#: core/admin/options-fields.php:107
+msgid "Logo/title position"
+msgstr ""
+
+#: core/admin/options-fields.php:108
+msgid "Specify left and top positions for your logo/website title placement inside header"
+msgstr ""
+
+#: core/admin/options-fields.php:117
+msgid "Logo/title custom URL"
+msgstr ""
+
+#: core/admin/options-fields.php:118
+msgid "Specify url if you want to link your logo/website title to some other URL address. By default it will lead to your home page."
+msgstr ""
+
+#: core/admin/options-fields.php:126
+msgid "Site title color"
+msgstr ""
+
+#: core/admin/options-fields.php:127
+msgid "Specify color for your website title (if logo is not used)"
+msgstr ""
+
+#: core/admin/options-fields.php:135
+msgid "Display site description"
+msgstr ""
+
+#: core/admin/options-fields.php:136
+msgid "Check if you want to display site description (below logo/title)"
+msgstr ""
+
+#: core/admin/options-fields.php:137
+msgid "Note: You can specify your site description inside <a href=\"%s\">Settings -> General</a>"
+msgstr ""
+
+#: core/admin/options-fields.php:144
+msgid "Site description color"
+msgstr ""
+
+#: core/admin/options-fields.php:153
+msgid "Display search"
+msgstr ""
+
+#: core/admin/options-fields.php:154
+msgid "Check if you want to display search icon after main navigation"
+msgstr ""
+
+#: core/admin/options-fields.php:161
+msgid "Header background"
+msgstr ""
+
+#: core/admin/options-fields.php:162
+msgid "This option applies to your main header area"
+msgstr ""
+
+#: core/admin/options-fields.php:171
+msgid "Main navigation styling options"
+msgstr ""
+
+#: core/admin/options-fields.php:172
+msgid "Manage options for the main nav menu"
+msgstr ""
+
+#: core/admin/options-fields.php:179
+msgid "Navigation background"
+msgstr ""
+
+#: core/admin/options-fields.php:180, core/admin/options-fields.php:190
+msgid "This option applies to your navigation"
+msgstr ""
+
+#: core/admin/options-fields.php:189
+msgid "Navigation color"
+msgstr ""
+
+#: core/admin/options-fields.php:198
+msgid "Navigation accent color"
+msgstr ""
+
+#: core/admin/options-fields.php:199
+msgid "This option applies to your navigation links hover"
+msgstr ""
+
+#: core/admin/options-fields.php:207
+msgid "Apply category colors as accent color"
+msgstr ""
+
+#: core/admin/options-fields.php:208
+msgid "Check this option if you want to show actual category colors instead of accent color if category link is added in navigation"
+msgstr ""
+
+#: core/admin/options-fields.php:215
+msgid "Navigation submenu background"
+msgstr ""
+
+#: core/admin/options-fields.php:216
+msgid "This option applies to your submenu items"
+msgstr ""
+
+#: core/admin/options-fields.php:224
+msgid "Use mega menu navigation"
+msgstr ""
+
+#: core/admin/options-fields.php:225
+msgid "Check if you want to use our built in mega menu system in navigation"
+msgstr ""
+
+#: core/admin/options-fields.php:226
+msgid "Note: You may want to set this option to off if you are using some other menu/navigation specific plugins and avoid possible conflicts"
+msgstr ""
+
+#: core/admin/options-fields.php:233
+msgid "Use Ajax for mega menu"
+msgstr ""
+
+#: core/admin/options-fields.php:234
+msgid "Check if you want to load mega menu via ajax"
+msgstr ""
+
+#: core/admin/options-fields.php:235
+msgid "Note: Enabling this options will cause a small delay when displaying mega menu"
+msgstr ""
+
+#: core/admin/options-fields.php:243
+msgid "Show subcategories in mega menu"
+msgstr ""
+
+#: core/admin/options-fields.php:244
+msgid "Check if you want to show subcategories instead of first post"
+msgstr ""
+
+#: core/admin/options-fields.php:252
+msgid "Activate slider for mega-menu-posts"
+msgstr ""
+
+#: core/admin/options-fields.php:253
+msgid "Check if you want to show posts as a slider"
+msgstr ""
+
+#: core/admin/options-fields.php:262
+msgid "Number of posts in mega menu slider"
+msgstr ""
+
+#: core/admin/options-fields.php:263
+msgid "Specify number of posts to display in the mega menu"
+msgstr ""
+
+#: core/admin/options-fields.php:276, core/admin/options-fields.php:284
+msgid "Top bar"
+msgstr ""
+
+#: core/admin/options-fields.php:285
+msgid "Manage options for the header top bar area"
+msgstr ""
+
+#: core/admin/options-fields.php:292
+msgid "Enable header top bar"
+msgstr ""
+
+#: core/admin/options-fields.php:293
+msgid "Check if you want to enable header top bar"
+msgstr ""
+
+#: core/admin/options-fields.php:300
+msgid "Display top bar on mobile navigation"
+msgstr ""
+
+#: core/admin/options-fields.php:301
+msgid "Check if you want to enable top bar in mobile/responsive navigation"
+msgstr ""
+
+#: core/admin/options-fields.php:308
+msgid "Group top bar navigation on mobile under \"more\" link "
+msgstr ""
+
+#: core/admin/options-fields.php:316
+msgid "Top bar left"
+msgstr ""
+
+#: core/admin/options-fields.php:317
+msgid "Choose what to display in top bar left area"
+msgstr ""
+
+#: core/admin/options-fields.php:325
+msgid "Top bar center"
+msgstr ""
+
+#: core/admin/options-fields.php:326
+msgid "Choose what to display in top bar center area"
+msgstr ""
+
+#: core/admin/options-fields.php:334
+msgid "Top bar right"
+msgstr ""
+
+#: core/admin/options-fields.php:335
+msgid "Choose what to display in top bar right area"
+msgstr ""
+
+#: core/admin/options-fields.php:344
+msgid "Top bar background color"
+msgstr ""
+
+#: core/admin/options-fields.php:353
+msgid "Top bar text color"
+msgstr ""
+
+#: core/admin/options-fields.php:365, core/admin/options-fields.php:373
+msgid "Sticky header"
+msgstr ""
+
+#: core/admin/options-fields.php:374
+msgid "Manage options for the sticky header"
+msgstr ""
+
+#: core/admin/options-fields.php:381
+msgid "Enable sticky header"
+msgstr ""
+
+#: core/admin/options-fields.php:382
+msgid "Check if you want to make main navigation always visible (sticky)"
+msgstr ""
+
+#: core/admin/options-fields.php:390
+msgid "Sticky header offset"
+msgstr ""
+
+#: core/admin/options-fields.php:391
+msgid "Specify after how many px of scrolling sticky header appears"
+msgstr ""
+
+#: core/admin/options-fields.php:401
+msgid "Sticky header logo"
+msgstr ""
+
+#: core/admin/options-fields.php:402
+msgid "Optionally upload your logo image if you want to have different logo in sticky header instead of main logo"
+msgstr ""
+
+#: core/admin/options-fields.php:403
+msgid "Note: Optimal logo height is 40px. Allowed extensions are .jpg, .png and .gif"
+msgstr ""
+
+#: core/admin/options-fields.php:411
+msgid "Sticky Menu"
+msgstr ""
+
+#: core/admin/options-fields.php:412
+msgid "Choose different menu for sticky header"
+msgstr ""
+
+#: core/admin/options-fields.php:414, core/menus.php:9
+msgid "Main Navigation"
+msgstr ""
+
+#: core/admin/options-fields.php:415, core/menus.php:10
+msgid "Top Menu"
+msgstr ""
+
+#: core/admin/options-fields.php:417, core/menus.php:12
+msgid "Footer Menu"
+msgstr ""
+
+#: core/admin/options-fields.php:429
+msgid "Content Styling"
+msgstr ""
+
+#: core/admin/options-fields.php:430
+msgid "These are options to style your main content area"
+msgstr ""
+
+#: core/admin/options-fields.php:436
+msgid "Body background"
+msgstr ""
+
+#: core/admin/options-fields.php:437
+msgid "Setup your body background color, image, pattern..."
+msgstr ""
+
+#: core/admin/options-fields.php:443
+msgid "Box/module headings background"
+msgstr ""
+
+#: core/admin/options-fields.php:444
+msgid "This option apply to module headings background"
+msgstr ""
+
+#: core/admin/options-fields.php:451
+msgid "Box/module headings text"
+msgstr ""
+
+#: core/admin/options-fields.php:452
+msgid "This option apply to module headings text"
+msgstr ""
+
+#: core/admin/options-fields.php:460
+msgid "Box/module background"
+msgstr ""
+
+#: core/admin/options-fields.php:461
+msgid "Specify main boxes background color"
+msgstr ""
+
+#: core/admin/options-fields.php:469
+msgid "Post/content background"
+msgstr ""
+
+#: core/admin/options-fields.php:470
+msgid "Specify background color for posts, pages, etc"
+msgstr ""
+
+#: core/admin/options-fields.php:478
+msgid "Post titles/h-elements"
+msgstr ""
+
+#: core/admin/options-fields.php:479
+msgid "Specify color for posts/page titles, h1,h2,h3,etc..."
+msgstr ""
+
+#: core/admin/options-fields.php:487
+msgid "Post/content text"
+msgstr ""
+
+#: core/admin/options-fields.php:488
+msgid "This color applies to standard post/content text"
+msgstr ""
+
+#: core/admin/options-fields.php:496, core/admin/options-fields.php:663
+msgid "Accent color"
+msgstr ""
+
+#: core/admin/options-fields.php:497
+msgid "This color applies to links, buttons, special elements, etc..."
+msgstr ""
+
+#: core/admin/options-fields.php:505
+msgid "Meta color"
+msgstr ""
+
+#: core/admin/options-fields.php:506
+msgid "This color applies to meta data such as date, comments link, views, etc..."
+msgstr ""
+
+#: core/admin/options-fields.php:514
+msgid "Pagination/actions background"
+msgstr ""
+
+#: core/admin/options-fields.php:515
+msgid "This color applies to third level/bottom area of boxes which has pagination, buttons, etc..."
+msgstr ""
+
+#: core/admin/options-fields.php:529
+msgid "Sidebar Styling"
+msgstr ""
+
+#: core/admin/options-fields.php:530
+msgid "These are styling settings for your sidebar/widgets"
+msgstr ""
+
+#: core/admin/options-fields.php:537
+msgid "Additional sidebars"
+msgstr ""
+
+#: core/admin/options-fields.php:538
+msgid "Specify number of additional sidebars you want to use in this theme. You can manage your sidebars via <a href=\"%s\">Appearance -> Widgets</a>"
+msgstr ""
+
+#: core/admin/options-fields.php:539
+msgid "Note: Leave empty for no additional sidebars."
+msgstr ""
+
+#: core/admin/options-fields.php:547
+msgid "Widget title background"
+msgstr ""
+
+#: core/admin/options-fields.php:548
+msgid "Specify widget title background color"
+msgstr ""
+
+#: core/admin/options-fields.php:555
+msgid "Widget title text"
+msgstr ""
+
+#: core/admin/options-fields.php:556
+msgid "Specify widget title text color"
+msgstr ""
+
+#: core/admin/options-fields.php:563
+msgid "Widget background"
+msgstr ""
+
+#: core/admin/options-fields.php:564
+msgid "Specify widget background color"
+msgstr ""
+
+#: core/admin/options-fields.php:571
+msgid "Widget text"
+msgstr ""
+
+#: core/admin/options-fields.php:572
+msgid "Specify widget text color"
+msgstr ""
+
+#: core/admin/options-fields.php:580
+msgid "Widget accent"
+msgstr ""
+
+#: core/admin/options-fields.php:581
+msgid "This color will apply to link hovers, buttons, etc..."
+msgstr ""
+
+#: core/admin/options-fields.php:589
+msgid "Sub-level background"
+msgstr ""
+
+#: core/admin/options-fields.php:590
+msgid "This color will apply to additional area used at the bottom of some widgets"
+msgstr ""
+
+#: core/admin/options-fields.php:602
+msgid "Footer Styling"
+msgstr ""
+
+#: core/admin/options-fields.php:603
+msgid "Manage settings for footer area"
+msgstr ""
+
+#: core/admin/options-fields.php:610
+msgid "Enable Footer"
+msgstr ""
+
+#: core/admin/options-fields.php:611
+msgid "Check if you want to include footer area in your theme. You can manage footer area content in <a href=\"%s\">Apperance -> Widgets</a> settings."
+msgstr ""
+
+#: core/admin/options-fields.php:618
+msgid "Footer Columns"
+msgstr ""
+
+#: core/admin/options-fields.php:619
+msgid "Choose number of columns in footer area"
+msgstr ""
+
+#: core/admin/options-fields.php:620
+msgid "Note: Each column represents one Footer Sidebar in <a href=\"%s\">Apperance -> Widgets</a> settings."
+msgstr ""
+
+#: core/admin/options-fields.php:622
+msgid "1 Column"
+msgstr ""
+
+#: core/admin/options-fields.php:623
+msgid "2 Columns (1/2 + 1/2)"
+msgstr ""
+
+#: core/admin/options-fields.php:624
+msgid "2 Columns (1/3 + 2/3)"
+msgstr ""
+
+#: core/admin/options-fields.php:625
+msgid "2 Columns (2/3 + 1/3)"
+msgstr ""
+
+#: core/admin/options-fields.php:626
+msgid "3 Columns"
+msgstr ""
+
+#: core/admin/options-fields.php:635
+msgid "Footer background"
+msgstr ""
+
+#: core/admin/options-fields.php:636
+msgid "Specify footer background color"
+msgstr ""
+
+#: core/admin/options-fields.php:645
+msgid "Headings text color"
+msgstr ""
+
+#: core/admin/options-fields.php:646
+msgid "This color will apply to footer widget titles, headings, etc..."
+msgstr ""
+
+#: core/admin/options-fields.php:654
+msgid "Text color"
+msgstr ""
+
+#: core/admin/options-fields.php:655
+msgid "This is standard text color for footer"
+msgstr ""
+
+#: core/admin/options-fields.php:664
+msgid "This color will apply to buttons, links, etc..."
+msgstr ""
+
+#: core/admin/options-fields.php:673
+msgid "Enable bottom bar / copyright area"
+msgstr ""
+
+#: core/admin/options-fields.php:674
+msgid "Check if you want to include copyright area below footer"
+msgstr ""
+
+#: core/admin/options-fields.php:681
+msgid "Copyright"
+msgstr ""
+
+#: core/admin/options-fields.php:682
+msgid "Specify some copyright text to show at the bottom of the website"
+msgstr ""
+
+#: core/admin/options-fields.php:694
+msgid "Bottom bar left"
+msgstr ""
+
+#: core/admin/options-fields.php:695
+msgid "Choose what to display in copyright bar left area"
+msgstr ""
+
+#: core/admin/options-fields.php:704
+msgid "Bottom bar center"
+msgstr ""
+
+#: core/admin/options-fields.php:705
+msgid "Choose what to display in copyright bar center area"
+msgstr ""
+
+#: core/admin/options-fields.php:714
+msgid "Bottom bar right"
+msgstr ""
+
+#: core/admin/options-fields.php:715
+msgid "Choose what to display in copyright bar right area"
+msgstr ""
+
+#: core/admin/options-fields.php:729
+msgid "Post Layouts"
+msgstr ""
+
+#: core/admin/options-fields.php:737
+msgid "Featured area (large)"
+msgstr ""
+
+#: core/admin/options-fields.php:745
+msgid "Featured area (full-width posts)"
+msgstr ""
+
+#: core/admin/options-fields.php:746
+msgid "Manage options for big post(s) displayed in featured area"
+msgstr ""
+
+#: core/admin/options-fields.php:753, core/admin/options-fields.php:827, core/admin/options-fields.php:902, core/admin/options-fields.php:986, core/admin/options-fields.php:1085, core/admin/options-fields.php:1163, core/admin/options-fields.php:1250, core/admin/options-fields.php:1398, core/admin/options-fields.php:1476
+msgid "Display category"
+msgstr ""
+
+#: core/admin/options-fields.php:754
+msgid "Check if you want to display category link for featured area main post"
+msgstr ""
+
+#: core/admin/options-fields.php:762, core/admin/options-fields.php:836, core/admin/options-fields.php:911, core/admin/options-fields.php:995, core/admin/options-fields.php:1094, core/admin/options-fields.php:1172, core/admin/options-fields.php:1259, core/admin/options-fields.php:1317, core/admin/options-fields.php:1367, core/admin/options-fields.php:1407, core/admin/options-fields.php:1485
+msgid "Post titles limit"
+msgstr ""
+
+#: core/admin/options-fields.php:763
+msgid "Specify number of characters to limit post titles for featured area main posts"
+msgstr ""
+
+#: core/admin/options-fields.php:764, core/admin/options-fields.php:838, core/admin/options-fields.php:913, core/admin/options-fields.php:997, core/admin/options-fields.php:1409
+msgid "Note: Leave empty if you want to show full titles."
+msgstr ""
+
+#: core/admin/options-fields.php:773, core/admin/options-fields.php:847, core/admin/options-fields.php:922, core/admin/options-fields.php:1006, core/admin/options-fields.php:1105, core/admin/options-fields.php:1184, core/admin/options-fields.php:1270, core/admin/options-fields.php:1328, core/admin/options-fields.php:1418, core/admin/options-fields.php:1497, core/admin/options-fields.php:1603
+msgid "Meta data"
+msgstr ""
+
+#: core/admin/options-fields.php:774
+msgid "Check which meta data to show for featured area main posts"
+msgstr ""
+
+#: core/admin/options-fields.php:783, core/admin/options-fields.php:857, core/admin/options-fields.php:940
+msgid "Autoplay slides"
+msgstr ""
+
+#: core/admin/options-fields.php:784
+msgid "Specify number of seconds if you want to enable automatic sliding for featured area main posts"
+msgstr ""
+
+#: core/admin/options-fields.php:785, core/admin/options-fields.php:859, core/admin/options-fields.php:942
+msgid "i.e. Put \"5\" to auto slide each 5 seconds or leave empty for no autoplay"
+msgstr ""
+
+#: core/admin/options-fields.php:792, core/admin/options-fields.php:867, core/admin/options-fields.php:950
+msgid "Overlay opacity"
+msgstr ""
+
+#: core/admin/options-fields.php:793, core/admin/options-fields.php:868, core/admin/options-fields.php:951
+msgid "Choose values for image overlay opacity"
+msgstr ""
+
+#: core/admin/options-fields.php:794, core/admin/options-fields.php:869, core/admin/options-fields.php:952
+msgid "Note: First value is for initial opacity, second one is for image hover"
+msgstr ""
+
+#: core/admin/options-fields.php:811
+msgid "Featured area (medium)"
+msgstr ""
+
+#: core/admin/options-fields.php:819
+msgid "Featured area (3 grid items)"
+msgstr ""
+
+#: core/admin/options-fields.php:820, core/admin/options-fields.php:895
+msgid "Manage options for posts displayed in featured area grid/slider"
+msgstr ""
+
+#: core/admin/options-fields.php:828, core/admin/options-fields.php:903
+msgid "Check if you want to display category link for posts in featured area grid/slider"
+msgstr ""
+
+#: core/admin/options-fields.php:837, core/admin/options-fields.php:912
+msgid "Specify number of characters to limit post titles for featured area grid/slider"
+msgstr ""
+
+#: core/admin/options-fields.php:848, core/admin/options-fields.php:923
+msgid "Check which meta data to show for posts in featured area grid/slider"
+msgstr ""
+
+#: core/admin/options-fields.php:858, core/admin/options-fields.php:941
+msgid "Specify number of seconds if you want to enable automatic sliding for featured area grid/slider"
+msgstr ""
+
+#: core/admin/options-fields.php:886
+msgid "Featured area (small)"
+msgstr ""
+
+#: core/admin/options-fields.php:894
+msgid "Featured area (5 grid items)"
+msgstr ""
+
+#: core/admin/options-fields.php:931
+msgid "Center text vertically"
+msgstr ""
+
+#: core/admin/options-fields.php:932
+msgid "Check if you want to always center the text vertically over the image "
+msgstr ""
+
+#: core/admin/options-fields.php:979
+msgid "Manage options for posts displayed in layout A"
+msgstr ""
+
+#: core/admin/options-fields.php:987
+msgid "Check if you want to display category link for posts in layout A"
+msgstr ""
+
+#: core/admin/options-fields.php:996
+msgid "Specify number of characters to limit post titles for layout A"
+msgstr ""
+
+#: core/admin/options-fields.php:1007
+msgid "Check which meta data to show for posts in layout A"
+msgstr ""
+
+#: core/admin/options-fields.php:1015
+msgid "Layout A content type"
+msgstr ""
+
+#: core/admin/options-fields.php:1016
+msgid "Check how would you like to display post content for Layout A"
+msgstr ""
+
+#: core/admin/options-fields.php:1018
+msgid "Content (manually split with \"<--more-->\" tag)"
+msgstr ""
+
+#: core/admin/options-fields.php:1019
+msgid "Excerpt (automatically limit number of characters)"
+msgstr ""
+
+#: core/admin/options-fields.php:1027, core/admin/options-fields.php:1114, core/admin/options-fields.php:1193, core/admin/options-fields.php:1427, core/admin/options-fields.php:1506
+msgid "Display excerpt"
+msgstr ""
+
+#: core/admin/options-fields.php:1028
+msgid "Check if you want to display text excerpt for posts in layout A"
+msgstr ""
+
+#: core/admin/options-fields.php:1038, core/admin/options-fields.php:1123, core/admin/options-fields.php:1210, core/admin/options-fields.php:1436, core/admin/options-fields.php:1515
+msgid "Excerpt limit"
+msgstr ""
+
+#: core/admin/options-fields.php:1039
+msgid "Specify your excerpt limit if you are using excerpts on blog posts"
+msgstr ""
+
+#: core/admin/options-fields.php:1040, core/admin/options-fields.php:1125, core/admin/options-fields.php:1212, core/admin/options-fields.php:1438, core/admin/options-fields.php:1517
+msgid "Note: Value represents number of characters"
+msgstr ""
+
+#: core/admin/options-fields.php:1049, core/admin/options-fields.php:1201
+msgid "Display read more link"
+msgstr ""
+
+#: core/admin/options-fields.php:1050
+msgid "Check if you want to display \"read more\" link for posts in layout C"
+msgstr ""
+
+#: core/admin/options-fields.php:1057, core/admin/options-fields.php:1134, core/admin/options-fields.php:1222, core/admin/options-fields.php:1279, core/admin/options-fields.php:1337, core/admin/options-fields.php:1447
+msgid "Display post format icon"
+msgstr ""
+
+#: core/admin/options-fields.php:1058
+msgid "Check if you want to display post format icon (video, audio...) for posts in layout A"
+msgstr ""
+
+#: core/admin/options-fields.php:1078
+msgid "Manage options for layout B"
+msgstr ""
+
+#: core/admin/options-fields.php:1086
+msgid "Check if you want to display category link for posts in layout B"
+msgstr ""
+
+#: core/admin/options-fields.php:1095
+msgid "Specify number of characters to limit post titles for layout B"
+msgstr ""
+
+#: core/admin/options-fields.php:1096, core/admin/options-fields.php:1174, core/admin/options-fields.php:1261, core/admin/options-fields.php:1319, core/admin/options-fields.php:1369, core/admin/options-fields.php:1487
+msgid "Note: Value represents number of characters. Leave empty if you want to show full titles."
+msgstr ""
+
+#: core/admin/options-fields.php:1106
+msgid "Check which meta data to show for layout B"
+msgstr ""
+
+#: core/admin/options-fields.php:1115
+msgid "Check if you want to display text excerpt for posts in layout B"
+msgstr ""
+
+#: core/admin/options-fields.php:1124
+msgid "Specify your post excerpt limit for layout B"
+msgstr ""
+
+#: core/admin/options-fields.php:1135
+msgid "Check if you want to display post format icon (video, audio...) for posts in layout B"
+msgstr ""
+
+#: core/admin/options-fields.php:1156
+msgid "Manage options for layout C"
+msgstr ""
+
+#: core/admin/options-fields.php:1164
+msgid "Check if you want to display category link for posts in layout C"
+msgstr ""
+
+#: core/admin/options-fields.php:1173
+msgid "Specify number of characters to limit post titles for layout C"
+msgstr ""
+
+#: core/admin/options-fields.php:1185
+msgid "Check which meta data to show for layout C"
+msgstr ""
+
+#: core/admin/options-fields.php:1194
+msgid "Check if you want to display text excerpt for posts in layout C"
+msgstr ""
+
+#: core/admin/options-fields.php:1202
+msgid "Check if you want to display \"read more\" link for posts in layout A"
+msgstr ""
+
+#: core/admin/options-fields.php:1211
+msgid "Specify your post excerpt limit for layout C"
+msgstr ""
+
+#: core/admin/options-fields.php:1223
+msgid "Check if you want to display post format icon (video, audio...) for posts in layout C"
+msgstr ""
+
+#: core/admin/options-fields.php:1243
+msgid "Manage options for layout D"
+msgstr ""
+
+#: core/admin/options-fields.php:1251
+msgid "Check if you want to display category link for posts in layout D"
+msgstr ""
+
+#: core/admin/options-fields.php:1260
+msgid "Specify number of characters to limit post titles for layout D"
+msgstr ""
+
+#: core/admin/options-fields.php:1271
+msgid "Check which meta data to show for layout D"
+msgstr ""
+
+#: core/admin/options-fields.php:1280
+msgid "Check if you want to display post format icon (video, audio...) for posts in layout D"
+msgstr ""
+
+#: core/admin/options-fields.php:1301
+msgid "Manage options for layout E"
+msgstr ""
+
+#: core/admin/options-fields.php:1308
+msgid "Display post title"
+msgstr ""
+
+#: core/admin/options-fields.php:1309
+msgid "Check if you want to display post title posts in layout E"
+msgstr ""
+
+#: core/admin/options-fields.php:1318
+msgid "Specify number of characters to limit post titles for layout E"
+msgstr ""
+
+#: core/admin/options-fields.php:1329
+msgid "Check which meta data to show for layout E"
+msgstr ""
+
+#: core/admin/options-fields.php:1338
+msgid "Check if you want to display post format icon (video, audio...) for posts in layout E"
+msgstr ""
+
+#: core/admin/options-fields.php:1358
+msgid "Manage options for layout F"
+msgstr ""
+
+#: core/admin/options-fields.php:1368
+msgid "Specify number of characters to limit post titles for layout F"
+msgstr ""
+
+#: core/admin/options-fields.php:1391
+msgid "Manage options for posts displayed in layout G"
+msgstr ""
+
+#: core/admin/options-fields.php:1399
+msgid "Check if you want to display category link for posts in layout G"
+msgstr ""
+
+#: core/admin/options-fields.php:1408
+msgid "Specify number of characters to limit post titles for layout G"
+msgstr ""
+
+#: core/admin/options-fields.php:1419
+msgid "Check which meta data to show for posts in layout G"
+msgstr ""
+
+#: core/admin/options-fields.php:1428
+msgid "Check if you want to display text excerpt for posts in layout G"
+msgstr ""
+
+#: core/admin/options-fields.php:1437
+msgid "Specify your post excerpt limit for layout G"
+msgstr ""
+
+#: core/admin/options-fields.php:1448
+msgid "Check if you want to display post format icon (video, audio...) for posts in layout G"
+msgstr ""
+
+#: core/admin/options-fields.php:1469
+msgid "Manage options for layout H"
+msgstr ""
+
+#: core/admin/options-fields.php:1477
+msgid "Check if you want to display category link for posts in layout H"
+msgstr ""
+
+#: core/admin/options-fields.php:1486
+msgid "Specify number of characters to limit post titles for layout H"
+msgstr ""
+
+#: core/admin/options-fields.php:1498
+msgid "Check which meta data to show for layout H"
+msgstr ""
+
+#: core/admin/options-fields.php:1507
+msgid "Check if you want to display text excerpt for posts in layout H"
+msgstr ""
+
+#: core/admin/options-fields.php:1516
+msgid "Specify your post excerpt limit for layout H"
+msgstr ""
+
+#: core/admin/options-fields.php:1531
+msgid "Single Post"
+msgstr ""
+
+#: core/admin/options-fields.php:1532
+msgid "Manage settings for single post template"
+msgstr ""
+
+#: core/admin/options-fields.php:1538
+msgid "Single post layout"
+msgstr ""
+
+#: core/admin/options-fields.php:1539
+msgid "Choose default layout for your single posts"
+msgstr ""
+
+#: core/admin/options-fields.php:1540, core/admin/options-fields.php:1574
+msgid "Note: You can override this option for each particular post"
+msgstr ""
+
+#: core/admin/options-fields.php:1548
+msgid "Content width (with sidebar)"
+msgstr ""
+
+#: core/admin/options-fields.php:1549
+msgid "Choose post content width for posts which have sidebar included"
+msgstr ""
+
+#: core/admin/options-fields.php:1550, core/admin/options-fields.php:1562, core/admin/options-fields.php:1864, core/admin/options-fields.php:1876
+msgid "Note: Value is in px."
+msgstr ""
+
+#: core/admin/options-fields.php:1560
+msgid "Content width (without sidebar)"
+msgstr ""
+
+#: core/admin/options-fields.php:1561
+msgid "Choose post content width for posts which don't have sidebar included (full width posts)"
+msgstr ""
+
+#: core/admin/options-fields.php:1573
+msgid "Choose default sidebar layout for single posts"
+msgstr ""
+
+#: core/admin/options-fields.php:1582
+msgid "Post standard sidebar"
+msgstr ""
+
+#: core/admin/options-fields.php:1583
+msgid "Choose single post standard sidebar"
+msgstr ""
+
+#: core/admin/options-fields.php:1592
+msgid "Post sticky sidebar"
+msgstr ""
+
+#: core/admin/options-fields.php:1593
+msgid "Choose single post sticky sidebar"
+msgstr ""
+
+#: core/admin/options-fields.php:1604
+msgid "Check which meta data to show for single post"
+msgstr ""
+
+#: core/admin/options-fields.php:1612
+msgid "Display category link"
+msgstr ""
+
+#: core/admin/options-fields.php:1613
+msgid "Choose if you want to display category link"
+msgstr ""
+
+#: core/admin/options-fields.php:1620, core/admin/options-fields.php:1916
+msgid "Display featured image"
+msgstr ""
+
+#: core/admin/options-fields.php:1621
+msgid "Choose if you want to display featured image"
+msgstr ""
+
+#: core/admin/options-fields.php:1628, core/admin/options-fields.php:1924
+msgid "Display featured image caption"
+msgstr ""
+
+#: core/admin/options-fields.php:1629, core/admin/options-fields.php:1925
+msgid "Choose if you want to display caption/description on featured image"
+msgstr ""
+
+#: core/admin/options-fields.php:1637
+msgid "Display author image"
+msgstr ""
+
+#: core/admin/options-fields.php:1638
+msgid "Choose if you want to display author image below featured image"
+msgstr ""
+
+#: core/admin/options-fields.php:1645
+msgid "Display headline (excerpt)"
+msgstr ""
+
+#: core/admin/options-fields.php:1646
+msgid "Choose if you want to display headline (post excerpt) before main post content"
+msgstr ""
+
+#: core/admin/options-fields.php:1653
+msgid "Display tags"
+msgstr ""
+
+#: core/admin/options-fields.php:1654
+msgid "Choose if you want to display tags below post content"
+msgstr ""
+
+#: core/admin/options-fields.php:1661, core/admin/options-fields.php:1942
+msgid "Display share buttons"
+msgstr ""
+
+#: core/admin/options-fields.php:1662, core/admin/options-fields.php:1943
+msgid "Choose if you want to display social share buttons"
+msgstr ""
+
+#: core/admin/options-fields.php:1663, core/admin/options-fields.php:1673, core/admin/options-fields.php:1944, core/admin/options-fields.php:1954
+msgid "Note: <a href=\"%s\">Meks Easy Social Share plugin</a> must be activated to use share option."
+msgstr ""
+
+#: core/admin/options-fields.php:1671, core/admin/options-fields.php:1952
+msgid "Social share buttons"
+msgstr ""
+
+#: core/admin/options-fields.php:1672
+msgid "Check which social networks you want to use for sharing your posts"
+msgstr ""
+
+#: core/admin/options-fields.php:1682
+msgid "Display previous/next post links"
+msgstr ""
+
+#: core/admin/options-fields.php:1683
+msgid "Choose if you want to display previous and next post links for current post."
+msgstr ""
+
+#: core/admin/options-fields.php:1689
+msgid "Previous/next links to posts from same category?"
+msgstr ""
+
+#: core/admin/options-fields.php:1690
+msgid "Check if you want previous and next post links to display only posts from same category."
+msgstr ""
+
+#: core/admin/options-fields.php:1699
+msgid "Display author box"
+msgstr ""
+
+#: core/admin/options-fields.php:1700
+msgid "Choose if you want to display \"about author\" area below post content."
+msgstr ""
+
+#: core/admin/options-fields.php:1707
+msgid "Author box position"
+msgstr ""
+
+#: core/admin/options-fields.php:1708
+msgid "Choose where to display author box"
+msgstr ""
+
+#: core/admin/options-fields.php:1710
+msgid "Above related posts"
+msgstr ""
+
+#: core/admin/options-fields.php:1711
+msgid "Below related posts"
+msgstr ""
+
+#: core/admin/options-fields.php:1720
+msgid "Comment form on top"
+msgstr ""
+
+#: core/admin/options-fields.php:1721
+msgid "Choose if you want to display the comment form before comments"
+msgstr ""
+
+#: core/admin/options-fields.php:1729
+msgid "Enable infinite scroll loading for single posts"
+msgstr ""
+
+#: core/admin/options-fields.php:1736
+msgid "Related Posts"
+msgstr ""
+
+#: core/admin/options-fields.php:1737
+msgid "Manage options for related posts area"
+msgstr ""
+
+#: core/admin/options-fields.php:1744
+msgid "Display \"related\" posts box"
+msgstr ""
+
+#: core/admin/options-fields.php:1745
+msgid "Choose if you want to display additional area with related posts below post content"
+msgstr ""
+
+#: core/admin/options-fields.php:1753
+msgid "Related area posts layout"
+msgstr ""
+
+#: core/admin/options-fields.php:1763
+msgid "Related area posts number limit"
+msgstr ""
+
+#: core/admin/options-fields.php:1772
+msgid "Related area chooses from"
+msgstr ""
+
+#: core/admin/options-fields.php:1774
+msgid "Posts located in same category"
+msgstr ""
+
+#: core/admin/options-fields.php:1775
+msgid "Posts tagged with at least one same tag"
+msgstr ""
+
+#: core/admin/options-fields.php:1776
+msgid "Posts located in same category OR tagged with same tag"
+msgstr ""
+
+#: core/admin/options-fields.php:1777
+msgid "Posts located in same category AND tagged with same tag"
+msgstr ""
+
+#: core/admin/options-fields.php:1778
+msgid "Posts by same author"
+msgstr ""
+
+#: core/admin/options-fields.php:1779
+msgid "All posts"
+msgstr ""
+
+#: core/admin/options-fields.php:1788
+msgid "Related posts are ordered by"
+msgstr ""
+
+#: core/admin/options-fields.php:1797
+msgid "Related posts are not older than"
+msgstr ""
+
+#: core/admin/options-fields.php:1806
+msgid "Paginated/Multipage Posts"
+msgstr ""
+
+#: core/admin/options-fields.php:1807
+msgid "These are options which apply to your posts split with \"&lt;!--nextpage--&gt; tag\""
+msgstr ""
+
+#: core/admin/options-fields.php:1814
+msgid "Display navigation for paginated posts"
+msgstr ""
+
+#: core/admin/options-fields.php:1815
+msgid "Choose where to display navigation for paginated/multi-page posts"
+msgstr ""
+
+#: core/admin/options-fields.php:1817
+msgid "Above post content"
+msgstr ""
+
+#: core/admin/options-fields.php:1818
+msgid "Below post content"
+msgstr ""
+
+#: core/admin/options-fields.php:1826
+msgid "Display featured image on first page of paginated post"
+msgstr ""
+
+#: core/admin/options-fields.php:1827
+msgid "Check if you want to display featured image/author image on the first page of paginated/multi page posts"
+msgstr ""
+
+#: core/admin/options-fields.php:1834
+msgid "Display headline/excerpt on first page of paginated post"
+msgstr ""
+
+#: core/admin/options-fields.php:1835
+msgid "Check if you want to display headline/excerp on the first page of paginated/multi page posts"
+msgstr ""
+
+#: core/admin/options-fields.php:1845
+msgid "Page Templates"
+msgstr ""
+
+#: core/admin/options-fields.php:1846
+msgid "Manage default settings for your pages (page templates)"
+msgstr ""
+
+#: core/admin/options-fields.php:1852
+msgid "Page layout"
+msgstr ""
+
+#: core/admin/options-fields.php:1853
+msgid "Choose default layout for your pages"
+msgstr ""
+
+#: core/admin/options-fields.php:1854, core/admin/options-fields.php:1888
+msgid "Note: You can override this option for each particular page"
+msgstr ""
+
+#: core/admin/options-fields.php:1862
+msgid "Page content width (with sidebar)"
+msgstr ""
+
+#: core/admin/options-fields.php:1863
+msgid "Choose page content width for pages which have sidebar included"
+msgstr ""
+
+#: core/admin/options-fields.php:1874
+msgid "Page content width (without sidebar)"
+msgstr ""
+
+#: core/admin/options-fields.php:1875
+msgid "Choose page content width for pages which don't have sidebar included (full width pages)"
+msgstr ""
+
+#: core/admin/options-fields.php:1887
+msgid "Choose default sidebar layout for pages"
+msgstr ""
+
+#: core/admin/options-fields.php:1896
+msgid "Page standard sidebar"
+msgstr ""
+
+#: core/admin/options-fields.php:1897
+msgid "Choose page standard sidebar"
+msgstr ""
+
+#: core/admin/options-fields.php:1906
+msgid "Page sticky sidebar"
+msgstr ""
+
+#: core/admin/options-fields.php:1907
+msgid "Choose page sticky sidebar"
+msgstr ""
+
+#: core/admin/options-fields.php:1917
+msgid "Choose if you want to display featured image on single pages"
+msgstr ""
+
+#: core/admin/options-fields.php:1933
+msgid "Display comments"
+msgstr ""
+
+#: core/admin/options-fields.php:1934
+msgid "Choose if you want to display comments on single pages"
+msgstr ""
+
+#: core/admin/options-fields.php:1935
+msgid "Note: This is just an option to quickly hide the comments on pages. If you want to allow/disallow comments properly, you need to do it in \"Discussion\" box for each particular page."
+msgstr ""
+
+#: core/admin/options-fields.php:1953
+msgid "Check which social networks you want to use for sharing your pages"
+msgstr ""
+
+#: core/admin/options-fields.php:1965
+msgid "Category Templates"
+msgstr ""
+
+#: core/admin/options-fields.php:1966
+msgid "Manage settings for category templates. Note: these are global category settings, you can optionally modify these settings for each category."
+msgstr ""
+
+#: core/admin/options-fields.php:1972
+msgid "Display featured area/slider"
+msgstr ""
+
+#: core/admin/options-fields.php:1973
+msgid "Check if you want to enable featured area for category templates"
+msgstr ""
+
+#: core/admin/options-fields.php:1981
+msgid "Choose a layout for your featured area on category templates"
+msgstr ""
+
+#: core/admin/options-fields.php:1991
+msgid "Number of featured area posts"
+msgstr ""
+
+#: core/admin/options-fields.php:1992
+msgid "Specify how many posts you want to display inside featured area"
+msgstr ""
+
+#: core/admin/options-fields.php:2001
+msgid "Featured posts are ordered by"
+msgstr ""
+
+#: core/admin/options-fields.php:2010
+msgid "Featured posts are not older than"
+msgstr ""
+
+#: core/admin/options-fields.php:2020
+msgid "Enable this option to exclude posts in featured area from showing in main post listing"
+msgstr ""
+
+#: core/admin/options-fields.php:2028
+msgid "Show featured area on first page only"
+msgstr ""
+
+#: core/admin/options-fields.php:2029
+msgid "Enable this option to display featured area only on first page of category"
+msgstr ""
+
+#: core/admin/options-fields.php:2039
+msgid "Category posts main layout"
+msgstr ""
+
+#: core/admin/options-fields.php:2040
+msgid "Choose how to display your posts on category templates"
+msgstr ""
+
+#: core/admin/options-fields.php:2048
+msgid "Enable starter posts"
+msgstr ""
+
+#: core/admin/options-fields.php:2049
+msgid "Check if you want to enable top/starter posts which will have different different layout than posts in main listing"
+msgstr ""
+
+#: core/admin/options-fields.php:2056
+msgid "Category starter posts layout"
+msgstr ""
+
+#: core/admin/options-fields.php:2057
+msgid "Choose how to display top/starter posts on category templates"
+msgstr ""
+
+#: core/admin/options-fields.php:2068
+msgid "Specify how many top/starter posts you want to have"
+msgstr ""
+
+#: core/admin/options-fields.php:2078
+msgid "Choose default sidebar layout for category template"
+msgstr ""
+
+#: core/admin/options-fields.php:2086
+msgid "Category standard sidebar"
+msgstr ""
+
+#: core/admin/options-fields.php:2087
+msgid "Choose standard category sidebar"
+msgstr ""
+
+#: core/admin/options-fields.php:2096
+msgid "Category sticky sidebar"
+msgstr ""
+
+#: core/admin/options-fields.php:2097
+msgid "Choose sticky category sidebar"
+msgstr ""
+
+#: core/admin/options-fields.php:2106
+msgid "Category pagination"
+msgstr ""
+
+#: core/admin/options-fields.php:2107
+msgid "Choose which pagination to use on category templates"
+msgstr ""
+
+#: core/admin/options-fields.php:2115, core/admin/options-fields.php:2195, core/admin/options-fields.php:2274, core/admin/options-fields.php:2353, core/admin/options-fields.php:2405, core/admin/options-fields.php:2485
+msgid "Posts per page"
+msgstr ""
+
+#: core/admin/options-fields.php:2116, core/admin/options-fields.php:2196, core/admin/options-fields.php:2275, core/admin/options-fields.php:2354, core/admin/options-fields.php:2406, core/admin/options-fields.php:2486
+msgid "Choose how many posts per page you want to display"
+msgstr ""
+
+#: core/admin/options-fields.php:2118, core/admin/options-fields.php:2198, core/admin/options-fields.php:2277, core/admin/options-fields.php:2356, core/admin/options-fields.php:2408, core/admin/options-fields.php:2488
+msgid "Inherit from global option in <a href=\"%s\">Settings->Reading</a>"
+msgstr ""
+
+#: core/admin/options-fields.php:2119, core/admin/options-fields.php:2199, core/admin/options-fields.php:2278, core/admin/options-fields.php:2357, core/admin/options-fields.php:2409, core/admin/options-fields.php:2489
+msgid "Custom number"
+msgstr ""
+
+#: core/admin/options-fields.php:2128, core/admin/options-fields.php:2208, core/admin/options-fields.php:2287, core/admin/options-fields.php:2366, core/admin/options-fields.php:2418, core/admin/options-fields.php:2498
+msgid "Number of post per page"
+msgstr ""
+
+#: core/admin/options-fields.php:2140
+msgid "Tag Templates"
+msgstr ""
+
+#: core/admin/options-fields.php:2141
+msgid "Manage settings for tag templates"
+msgstr ""
+
+#: core/admin/options-fields.php:2147
+msgid "Tag archives layout"
+msgstr ""
+
+#: core/admin/options-fields.php:2148
+msgid "Choose how to display your posts on tag template"
+msgstr ""
+
+#: core/admin/options-fields.php:2158
+msgid "Choose sidebar layout for tag template"
+msgstr ""
+
+#: core/admin/options-fields.php:2166
+msgid "Tag standard sidebar"
+msgstr ""
+
+#: core/admin/options-fields.php:2167
+msgid "Choose standard sidebar for tag template"
+msgstr ""
+
+#: core/admin/options-fields.php:2176
+msgid "Tag sticky sidebar"
+msgstr ""
+
+#: core/admin/options-fields.php:2177
+msgid "Choose sticky sidebar for tag template"
+msgstr ""
+
+#: core/admin/options-fields.php:2186
+msgid "Tag pagination"
+msgstr ""
+
+#: core/admin/options-fields.php:2187
+msgid "Choose which pagination to use on tag template"
+msgstr ""
+
+#: core/admin/options-fields.php:2220
+msgid "Author Templates"
+msgstr ""
+
+#: core/admin/options-fields.php:2221
+msgid "Manage settings for author templates"
+msgstr ""
+
+#: core/admin/options-fields.php:2227
+msgid "Author archives layout"
+msgstr ""
+
+#: core/admin/options-fields.php:2228
+msgid "Choose how to display your posts on author template"
+msgstr ""
+
+#: core/admin/options-fields.php:2237
+msgid "Choose sidebar layout for author template"
+msgstr ""
+
+#: core/admin/options-fields.php:2245
+msgid "Author standard sidebar"
+msgstr ""
+
+#: core/admin/options-fields.php:2246
+msgid "Choose standard sidebar for author template"
+msgstr ""
+
+#: core/admin/options-fields.php:2255
+msgid "Author sticky sidebar"
+msgstr ""
+
+#: core/admin/options-fields.php:2256
+msgid "Choose sticky sidebar for author template"
+msgstr ""
+
+#: core/admin/options-fields.php:2265
+msgid "Author pagination"
+msgstr ""
+
+#: core/admin/options-fields.php:2266
+msgid "Choose which pagination to use on author template"
+msgstr ""
+
+#: core/admin/options-fields.php:2299
+msgid "Search Template"
+msgstr ""
+
+#: core/admin/options-fields.php:2300
+msgid "Manage settings for search results template"
+msgstr ""
+
+#: core/admin/options-fields.php:2306
+msgid "Search archives layout"
+msgstr ""
+
+#: core/admin/options-fields.php:2307
+msgid "Choose how to display your posts on search template"
+msgstr ""
+
+#: core/admin/options-fields.php:2316
+msgid "Choose sidebar layout for search template"
+msgstr ""
+
+#: core/admin/options-fields.php:2324
+msgid "Search standard sidebar"
+msgstr ""
+
+#: core/admin/options-fields.php:2325
+msgid "Choose standard sidebar for search template"
+msgstr ""
+
+#: core/admin/options-fields.php:2334
+msgid "Search sticky sidebar"
+msgstr ""
+
+#: core/admin/options-fields.php:2335
+msgid "Choose sticky sidebar for search template"
+msgstr ""
+
+#: core/admin/options-fields.php:2344
+msgid "Search pagination"
+msgstr ""
+
+#: core/admin/options-fields.php:2345
+msgid "Choose which pagination to use on search template"
+msgstr ""
+
+#: core/admin/options-fields.php:2380
+msgid "Posts Page Archive"
+msgstr ""
+
+#: core/admin/options-fields.php:2381
+msgid "Manage settings for posts page archive if you are using \"posts page\" option in <a href=\"%s\">Settings-> Reading</a>"
+msgstr ""
+
+#: core/admin/options-fields.php:2387
+msgid "Posts page archives layout"
+msgstr ""
+
+#: core/admin/options-fields.php:2388
+msgid "Choose how to display your posts on posts page template"
+msgstr ""
+
+#: core/admin/options-fields.php:2396
+msgid "Posts page pagination"
+msgstr ""
+
+#: core/admin/options-fields.php:2397
+msgid "Choose which pagination to use on posts page template"
+msgstr ""
+
+#: core/admin/options-fields.php:2432
+msgid "Archive Templates"
+msgstr ""
+
+#: core/admin/options-fields.php:2433
+msgid "Manage settings for other miscellaneous templates like date archives, post format archives, etc..."
+msgstr ""
+
+#: core/admin/options-fields.php:2438
+msgid "Archives layout"
+msgstr ""
+
+#: core/admin/options-fields.php:2439
+msgid "Choose how to display your posts on miscellaneous archive templates"
+msgstr ""
+
+#: core/admin/options-fields.php:2448
+msgid "Choose sidebar layout for archive templates"
+msgstr ""
+
+#: core/admin/options-fields.php:2456
+msgid "Archive standard sidebar"
+msgstr ""
+
+#: core/admin/options-fields.php:2457
+msgid "Choose standard sidebar for archive templates"
+msgstr ""
+
+#: core/admin/options-fields.php:2466
+msgid "Archive sticky sidebar"
+msgstr ""
+
+#: core/admin/options-fields.php:2467
+msgid "Choose sticky sidebar for archive templates"
+msgstr ""
+
+#: core/admin/options-fields.php:2476
+msgid "Archive pagination"
+msgstr ""
+
+#: core/admin/options-fields.php:2477
+msgid "Choose which pagination to use on archive templates"
+msgstr ""
+
+#: core/admin/options-fields.php:2509
+msgid "Typography"
+msgstr ""
+
+#: core/admin/options-fields.php:2510
+msgid "Manage fonts and typography settings"
+msgstr ""
+
+#: core/admin/options-fields.php:2516
+msgid "Main text font"
+msgstr ""
+
+#: core/admin/options-fields.php:2524
+msgid "This is you main font for standard text"
+msgstr ""
+
+#: core/admin/options-fields.php:2537
+msgid "Headings font"
+msgstr ""
+
+#: core/admin/options-fields.php:2545
+msgid "This font is used for headings, titles, h-elements..."
+msgstr ""
+
+#: core/admin/options-fields.php:2559
+msgid "Navigation font"
+msgstr ""
+
+#: core/admin/options-fields.php:2567
+msgid "This font is used for main website navigation"
+msgstr ""
+
+#: core/admin/options-fields.php:2581
+msgid "Fine-tune typography"
+msgstr ""
+
+#: core/admin/options-fields.php:2582
+msgid "Advanced options to adjust font sizes"
+msgstr ""
+
+#: core/admin/options-fields.php:2588
+msgid "Main text font size"
+msgstr ""
+
+#: core/admin/options-fields.php:2589
+msgid "This is your body text font size, used for default text on single posts and pages"
+msgstr ""
+
+#: core/admin/options-fields.php:2599
+msgid "Navigation font size"
+msgstr ""
+
+#: core/admin/options-fields.php:2600
+msgid "Applies to main website navigation"
+msgstr ""
+
+#: core/admin/options-fields.php:2610
+msgid "Modules and Archive title font size"
+msgstr ""
+
+#: core/admin/options-fields.php:2611
+msgid "Applies to title of modules and archives (Category,  Author, Tag, etc.) titles."
+msgstr ""
+
+#: core/admin/options-fields.php:2621
+msgid "Single post title font size"
+msgstr ""
+
+#: core/admin/options-fields.php:2622
+msgid "Applies to title on the beginning of the post"
+msgstr ""
+
+#: core/admin/options-fields.php:2632
+msgid "Entry headline font size"
+msgstr ""
+
+#: core/admin/options-fields.php:2633
+msgid "Font size for text excerpt in the beginning of the single post"
+msgstr ""
+
+#: core/admin/options-fields.php:2643
+msgid "Widget title font size"
+msgstr ""
+
+#: core/admin/options-fields.php:2644
+msgid "Applies to widgets titles"
+msgstr ""
+
+#: core/admin/options-fields.php:2654
+msgid "Small text (widget) font size"
+msgstr ""
+
+#: core/admin/options-fields.php:2655
+msgid "Applies to widgets and some special elements"
+msgstr ""
+
+#: core/admin/options-fields.php:2665
+msgid "Featured area big font size"
+msgstr ""
+
+#: core/admin/options-fields.php:2666
+msgid "Applies to titles in big (one column) featured area."
+msgstr ""
+
+#: core/admin/options-fields.php:2676
+msgid "Featured area medium (3 posts) font size"
+msgstr ""
+
+#: core/admin/options-fields.php:2677
+msgid "Applies to titles in medium (3 column) featured area."
+msgstr ""
+
+#: core/admin/options-fields.php:2687
+msgid "Featured area small (5 posts) font size"
+msgstr ""
+
+#: core/admin/options-fields.php:2688
+msgid "Applies to titles in small (5 column) featured area."
+msgstr ""
+
+#: core/admin/options-fields.php:2699
+msgid "Applies to post layout A title"
+msgstr ""
+
+#: core/admin/options-fields.php:2710
+msgid "Applies to post layout B title"
+msgstr ""
+
+#: core/admin/options-fields.php:2721
+msgid "Applies to post layout C title"
+msgstr ""
+
+#: core/admin/options-fields.php:2732
+msgid "Applies to post layout D title"
+msgstr ""
+
+#: core/admin/options-fields.php:2743
+msgid "Applies to post layout E title"
+msgstr ""
+
+#: core/admin/options-fields.php:2754
+msgid "Applies to post layout F title"
+msgstr ""
+
+#: core/admin/options-fields.php:2765
+msgid "Applies to post layout G title"
+msgstr ""
+
+#: core/admin/options-fields.php:2776
+msgid "Applies to post layout H title"
+msgstr ""
+
+#: core/admin/options-fields.php:2786
+msgid "H1 font size"
+msgstr ""
+
+#: core/admin/options-fields.php:2787
+msgid "Applies to H1 elements"
+msgstr ""
+
+#: core/admin/options-fields.php:2797
+msgid "H2 font size"
+msgstr ""
+
+#: core/admin/options-fields.php:2798
+msgid "Applies to H2 elements"
+msgstr ""
+
+#: core/admin/options-fields.php:2808
+msgid "H3 font size"
+msgstr ""
+
+#: core/admin/options-fields.php:2809
+msgid "Applies to H3 elements"
+msgstr ""
+
+#: core/admin/options-fields.php:2819
+msgid "H4 font size"
+msgstr ""
+
+#: core/admin/options-fields.php:2820
+msgid "Applies to H4 elements"
+msgstr ""
+
+#: core/admin/options-fields.php:2830
+msgid "H5 font size"
+msgstr ""
+
+#: core/admin/options-fields.php:2831
+msgid "Applies to H5 elements"
+msgstr ""
+
+#: core/admin/options-fields.php:2841
+msgid "H6 font size"
+msgstr ""
+
+#: core/admin/options-fields.php:2842
+msgid "Applies to H6 elements"
+msgstr ""
+
+#: core/admin/options-fields.php:2852
+msgid "Meta Data font size smaller"
+msgstr ""
+
+#: core/admin/options-fields.php:2853
+msgid "Applies to meta data in smaller module layouts"
+msgstr ""
+
+#: core/admin/options-fields.php:2863
+msgid "Meta Data font size larger"
+msgstr ""
+
+#: core/admin/options-fields.php:2864
+msgid "Applies to meta data in larger module layouts"
+msgstr ""
+
+#: core/admin/options-fields.php:2875
+msgid "Uppercase text"
+msgstr ""
+
+#: core/admin/options-fields.php:2876
+msgid "Check if you want to show CAPITAL LETTERS for specific elements"
+msgstr ""
+
+#: core/admin/options-fields.php:2878
+msgid "Site title"
+msgstr ""
+
+#: core/admin/options-fields.php:2879
+msgid "Site description"
+msgstr ""
+
+#: core/admin/options-fields.php:2880
+msgid "Main navigation"
+msgstr ""
+
+#: core/admin/options-fields.php:2881
+msgid "Post/Page titles"
+msgstr ""
+
+#: core/admin/options-fields.php:2882
+msgid "Box (module, archive, category, tag, etc...) titles"
+msgstr ""
+
+#: core/admin/options-fields.php:2883
+msgid "Widget titles"
+msgstr ""
+
+#: core/admin/options-fields.php:2884
+msgid "Footer widget titles"
+msgstr ""
+
+#: core/admin/options-fields.php:2885
+msgid "Featured area titles"
+msgstr ""
+
+#: core/admin/options-fields.php:2896
+msgid "Ads"
+msgstr ""
+
+#: core/admin/options-fields.php:2897
+msgid "Use this options to fill your ads slots. Both image and JavaScript related ads are allowed."
+msgstr ""
+
+#: core/admin/options-fields.php:2902
+msgid "Below header"
+msgstr ""
+
+#: core/admin/options-fields.php:2903
+msgid "This ad will be displayed between your header and website content"
+msgstr ""
+
+#: core/admin/options-fields.php:2905, core/admin/options-fields.php:2918, core/admin/options-fields.php:2931, core/admin/options-fields.php:2944, core/admin/options-fields.php:2957, core/admin/options-fields.php:2970
+msgid "Note: If you want to paste HTML or JavaScript code, use \"text\" mode in editor"
+msgstr ""
+
+#: core/admin/options-fields.php:2915
+msgid "Above footer"
+msgstr ""
+
+#: core/admin/options-fields.php:2916
+msgid "This ad will be displayed between your footer and website content"
+msgstr ""
+
+#: core/admin/options-fields.php:2928
+msgid "Below single post title"
+msgstr ""
+
+#: core/admin/options-fields.php:2929
+msgid "This ad will be displayed between single post title and its featured image on your single post templates on classic layout"
+msgstr ""
+
+#: core/admin/options-fields.php:2941
+msgid "Above single post content"
+msgstr ""
+
+#: core/admin/options-fields.php:2942
+msgid "This ad will be displayed above post content on your single post templates"
+msgstr ""
+
+#: core/admin/options-fields.php:2954
+msgid "Below single post content"
+msgstr ""
+
+#: core/admin/options-fields.php:2955
+msgid "This ad will be displayed below post content on your single post templates"
+msgstr ""
+
+#: core/admin/options-fields.php:2967
+msgid "Between posts"
+msgstr ""
+
+#: core/admin/options-fields.php:2968
+msgid "This ad will be displayed between posts on archive templates such as category archives, tag archives etc..."
+msgstr ""
+
+#: core/admin/options-fields.php:2981
+msgid "Between posts position"
+msgstr ""
+
+#: core/admin/options-fields.php:2982
+msgid "Specify after how many posts you want to display ad"
+msgstr ""
+
+#: core/admin/options-fields.php:2990
+msgid "Do not show ads on 404 page"
+msgstr ""
+
+#: core/admin/options-fields.php:2991
+msgid "Disable ads on 404 error page"
+msgstr ""
+
+#: core/admin/options-fields.php:2998
+msgid "Do not show ads on specific pages"
+msgstr ""
+
+#: core/admin/options-fields.php:2999
+msgid "Select pages on which you don't want to display ads"
+msgstr ""
+
+#: core/admin/options-fields.php:3015
+msgid "Miscellaneous"
+msgstr ""
+
+#: core/admin/options-fields.php:3016
+msgid "These are some miscellaneous settings for the website"
+msgstr ""
+
+#: core/admin/options-fields.php:3022
+msgid "RTL mode (right to left)"
+msgstr ""
+
+#: core/admin/options-fields.php:3023
+msgid "Enable this option if you are using right to left writing/reading"
+msgstr ""
+
+#: core/admin/options-fields.php:3029
+msgid "Skip RTL for specific language(s)"
+msgstr ""
+
+#: core/admin/options-fields.php:3030
+msgid "Paste specific WordPress language <a href=\"http://wpcentral.io/internationalization/\" target=\"_blank\">locale code</a> to exclude it from RTL mode"
+msgstr ""
+
+#: core/admin/options-fields.php:3031
+msgid "i.e. If you are using Arabic and English versions on the same WordPress installation you should put \"en_US\" in this field and its version will not be displayed as RTL. Note: To exclude multiple languages, separate by comma: en_US, de_DE"
+msgstr ""
+
+#: core/admin/options-fields.php:3040
+msgid "Default featured image"
+msgstr ""
+
+#: core/admin/options-fields.php:3041
+msgid "Upload your default featured image/placeholder which will be displayed for posts which do not have featured image set"
+msgstr ""
+
+#: core/admin/options-fields.php:3042
+msgid "Note: Allowed extensions are .jpg and .png"
+msgstr ""
+
+#: core/admin/options-fields.php:3050
+msgid "More string"
+msgstr ""
+
+#: core/admin/options-fields.php:3051
+msgid "Specify your \"more\" string to append after limited post titles and excerpts across the theme"
+msgstr ""
+
+#: core/admin/options-fields.php:3059
+msgid "Display \"time ago\" format"
+msgstr ""
+
+#: core/admin/options-fields.php:3060
+msgid "Display post dates in \"time ago\" manner, like Twitter and Facebook (i.e 5 hours ago, 3 days ago, 2 weeks ago, 4 months ago, etc...)"
+msgstr ""
+
+#: core/admin/options-fields.php:3061
+msgid "Note: If you disable this option, you can choose your preferred date format in <a href=\"%s\">Settings -> General</a>"
+msgstr ""
+
+#: core/admin/options-fields.php:3068
+msgid "Apply \"time ago\" to posts which are not older than"
+msgstr ""
+
+#: core/admin/options-fields.php:3070
+msgid "1 Hour"
+msgstr ""
+
+#: core/admin/options-fields.php:3077
+msgid "Apply to all posts"
+msgstr ""
+
+#: core/admin/options-fields.php:3086
+msgid "Display \"ago\" word before date/time"
+msgstr ""
+
+#: core/admin/options-fields.php:3087
+msgid "By default, \"ago\" word goes after date/time string but in some languages different than English it is more proper to display it before."
+msgstr ""
+
+#: core/admin/options-fields.php:3088
+msgid "Example: \"Publie depuis 3 heures\""
+msgstr ""
+
+#: core/admin/options-fields.php:3097
+msgid "Post views forgery"
+msgstr ""
+
+#: core/admin/options-fields.php:3098
+msgid "Specify value to add to real number of entry views for each post"
+msgstr ""
+
+#: core/admin/options-fields.php:3099
+msgid "i.e. If post has 45 views and you put 100, your post will display 145 views"
+msgstr ""
+
+#: core/admin/options-fields.php:3107
+msgid "Display scroll to top button"
+msgstr ""
+
+#: core/admin/options-fields.php:3108
+msgid "Check if you want to display scroll to top button"
+msgstr ""
+
+#: core/admin/options-fields.php:3115
+msgid "Scroll to top button color"
+msgstr ""
+
+#: core/admin/options-fields.php:3116
+msgid "Choose color for scroll to top button"
+msgstr ""
+
+#: core/admin/options-fields.php:3125
+msgid "Use Voice gallery style"
+msgstr ""
+
+#: core/admin/options-fields.php:3126
+msgid "Check if you want to use our built in gallery style or disable if you want to use default WordPress gallery or some other gallery plugin"
+msgstr ""
+
+#: core/admin/options-fields.php:3133
+msgid "Enable zoom effect on featured images"
+msgstr ""
+
+#: core/admin/options-fields.php:3134
+msgid "Check if you want to enable zoom effect on featured image mouse-over"
+msgstr ""
+
+#: core/admin/options-fields.php:3142
+msgid "404 template image"
+msgstr ""
+
+#: core/admin/options-fields.php:3143
+msgid "Upload image for 404 template (optional)"
+msgstr ""
+
+#: core/admin/options-fields.php:3144
+msgid "Supported formats: .jpg and .png"
+msgstr ""
+
+#: core/admin/options-fields.php:3151
+msgid "Enable \"multibyte\" support for text excerpts"
+msgstr ""
+
+#: core/admin/options-fields.php:3152
+msgid "Use this option for some specific languages that have special characters i.e. Japanese"
+msgstr ""
+
+#: core/admin/options-fields.php:3159
+msgid "Enable \"multibyte\" support for reading time"
+msgstr ""
+
+#: core/admin/options-fields.php:3160
+msgid "Enable this option if your site is using a language with UTF8 characters i.e. Russian"
+msgstr ""
+
+#: core/admin/options-fields.php:3168
+msgid "Words to read per minute"
+msgstr ""
+
+#: core/admin/options-fields.php:3169
+msgid "Use this option to set number of words your visitors read per minute, in order to fine-tune calculation of post reading time meta data"
+msgstr ""
+
+#: core/admin/options-fields.php:3177
+msgid "Primary category support"
+msgstr ""
+
+#: core/admin/options-fields.php:3178
+msgid "This option supports primary category feature from Yoast SEO plugin. If a post is assigned to multiple categories, only selected primary category will be displayed for that post in all listing layouts"
+msgstr ""
+
+#: core/admin/options-fields.php:3191
+msgid "WooCommerce"
+msgstr ""
+
+#: core/admin/options-fields.php:3192
+msgid "Manage options for WooCommerce pages"
+msgstr ""
+
+#: core/admin/options-fields.php:3197
+msgid "Product sidebar layout"
+msgstr ""
+
+#: core/admin/options-fields.php:3198
+msgid "Choose sidebar layout for WooCommerce products"
+msgstr ""
+
+#: core/admin/options-fields.php:3206
+msgid "Product standard sidebar"
+msgstr ""
+
+#: core/admin/options-fields.php:3207
+msgid "Choose standard sidebar for WooCommerce products"
+msgstr ""
+
+#: core/admin/options-fields.php:3216
+msgid "Product sticky sidebar"
+msgstr ""
+
+#: core/admin/options-fields.php:3217
+msgid "Choose sticky sidebar for WooCommerce products"
+msgstr ""
+
+#: core/admin/options-fields.php:3226
+msgid "Product category sidebar layout"
+msgstr ""
+
+#: core/admin/options-fields.php:3227
+msgid "Choose sidebar layout for WooCommerce product category"
+msgstr ""
+
+#: core/admin/options-fields.php:3235
+msgid "Product category standard sidebar"
+msgstr ""
+
+#: core/admin/options-fields.php:3236
+msgid "Choose standard sidebar for WooCommerce product category"
+msgstr ""
+
+#: core/admin/options-fields.php:3245
+msgid "Product category sticky sidebar"
+msgstr ""
+
+#: core/admin/options-fields.php:3246
+msgid "Choose sticky sidebar for WooCommerce product category"
+msgstr ""
+
+#: core/admin/options-fields.php:3255
+msgid "Dispaly WooCommerce cart icon in header"
+msgstr ""
+
+#: core/admin/options-fields.php:3256
+msgid "Check if you want to display cart icon after main navigation"
+msgstr ""
+
+#: core/admin/options-fields.php:3269
+msgid "bbPress"
+msgstr ""
+
+#: core/admin/options-fields.php:3270
+msgid "Manage options for bbPress pages"
+msgstr ""
+
+#: core/admin/options-fields.php:3275
+msgid "Forum sidebar layout"
+msgstr ""
+
+#: core/admin/options-fields.php:3276
+msgid "Choose sidebar layout for bbPress forums"
+msgstr ""
+
+#: core/admin/options-fields.php:3284
+msgid "Forum standard sidebar"
+msgstr ""
+
+#: core/admin/options-fields.php:3285
+msgid "Choose standard sidebar for bbPress forums"
+msgstr ""
+
+#: core/admin/options-fields.php:3294
+msgid "Forum sticky sidebar"
+msgstr ""
+
+#: core/admin/options-fields.php:3295
+msgid "Choose sticky sidebar for bbPress forums"
+msgstr ""
+
+#: core/admin/options-fields.php:3304
+msgid "Topic sidebar layout"
+msgstr ""
+
+#: core/admin/options-fields.php:3305
+msgid "Choose sidebar layout for bbPress topics"
+msgstr ""
+
+#: core/admin/options-fields.php:3313
+msgid "Topic standard sidebar"
+msgstr ""
+
+#: core/admin/options-fields.php:3314
+msgid "Choose standard sidebar for bbPress topics"
+msgstr ""
+
+#: core/admin/options-fields.php:3323
+msgid "Topic sticky sidebar"
+msgstr ""
+
+#: core/admin/options-fields.php:3324
+msgid "Choose sticky sidebar for bbPress topics"
+msgstr ""
+
+#: core/admin/options-fields.php:3343
+msgid "Enable theme translation?"
+msgstr ""
+
+#: core/admin/options-fields.php:3361
+msgid "Translation"
+msgstr ""
+
+#: core/admin/options-fields.php:3362
+msgid "Use these settings to quckly translate or change text inside this theme. If you want to remove the text completely instead of modifying it, you can use <strong>\"-1\"</strong> as a value for particular field translation. <br/><br/><strong>Note:</strong> If you are using this theme for multilingual website, you need to disable these options and use multilanguage plugins (such as WPML) or manual translation via .po and .mo files located inside \"wp-content/themes/voice/languages\" folder."
+msgstr ""
+
+#: core/admin/options-fields.php:3378
+msgid "Performance"
+msgstr ""
+
+#: core/admin/options-fields.php:3379
+msgid "Use these options to optimize your page speed"
+msgstr ""
+
+#: core/admin/options-fields.php:3385
+msgid "Use minified CSS"
+msgstr ""
+
+#: core/admin/options-fields.php:3386
+msgid "Load all theme css files combined and minified into a single file."
+msgstr ""
+
+#: core/admin/options-fields.php:3393
+msgid "Use minified JS"
+msgstr ""
+
+#: core/admin/options-fields.php:3394
+msgid "Load all theme js files combined and minified into a single file."
+msgstr ""
+
+#: core/admin/options-fields.php:3402
+msgid "Generate image sizes"
+msgstr ""
+
+#: core/admin/options-fields.php:3403
+msgid "Check what image sizes you want to generate i.e. if you dont want to use big featured image, uncheck this option  (if you are not sure, it is highly recommended to leave all sizes checked)"
+msgstr ""
+
+#: core/admin/options.php:17
+msgid "Voice Options%sTheme Documentation%s"
+msgstr ""
+
+#: core/admin/options.php:21
+msgid "Theme Options"
+msgstr ""
+
+#: core/admin/options.php:22
+msgid "Voice Options"
+msgstr ""
+
+#: core/admin/plugins.php:102
+msgid "Install Recommended Plugins"
+msgstr ""
+
+#: core/admin/plugins.php:103
+msgid "Voice Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: core/admin/plugins.php:104, inc/tgm/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: core/admin/plugins.php:105, inc/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: core/admin/plugins.php:106, inc/tgm/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/admin/plugins.php:107, inc/tgm/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/admin/plugins.php:108
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/admin/plugins.php:109, inc/tgm/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/admin/plugins.php:110, inc/tgm/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/admin/plugins.php:111
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/admin/plugins.php:112, inc/tgm/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/admin/plugins.php:113
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/admin/plugins.php:114, inc/tgm/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/admin/plugins.php:115
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/admin/plugins.php:116, inc/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: core/admin/plugins.php:117, inc/tgm/class-tgm-plugin-activation.php:387, inc/tgm/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: core/admin/plugins.php:118
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: core/default-options.php:85
+msgid "Copyright &copy; {current_year}. Created by %s. Powered by %s."
+msgstr ""
+
+#: core/extensions.php:536, core/translate.php:45
+msgid "Name"
+msgstr ""
+
+#: core/extensions.php:540, core/helpers.php:2493, core/translate.php:46
+msgid "Email"
+msgstr ""
+
+#: core/extensions.php:544, core/translate.php:47
+msgid "Website"
+msgstr ""
+
+#: core/extensions.php:549, core/translate.php:48
+msgid "Save my name, email, and website in this browser for the next time I comment."
+msgstr ""
+
+#: core/helpers.php:135
+msgid "Small"
+msgstr ""
+
+#: core/helpers.php:136
+msgid "S"
+msgstr ""
+
+#: core/helpers.php:143
+msgid "Normal"
+msgstr ""
+
+#: core/helpers.php:144
+msgid "M"
+msgstr ""
+
+#: core/helpers.php:150
+msgid "Large"
+msgstr ""
+
+#: core/helpers.php:151
+msgid "L"
+msgstr ""
+
+#: core/helpers.php:157
+msgid "Huge"
+msgstr ""
+
+#: core/helpers.php:158
+msgid "XL"
+msgstr ""
+
+#: core/helpers.php:186
+msgid "Accent"
+msgstr ""
+
+#: core/helpers.php:192
+msgid "Meta"
+msgstr ""
+
+#: core/helpers.php:198
+msgid "Text"
+msgstr ""
+
+#: core/helpers.php:205
+msgid "Background"
+msgstr ""
+
+#: core/helpers.php:217
+msgid "Category color"
+msgstr ""
+
+#: core/helpers.php:2484
+msgid "Facebook"
+msgstr ""
+
+#: core/helpers.php:2485
+msgid "Twitter"
+msgstr ""
+
+#: core/helpers.php:2486
+msgid "Google+"
+msgstr ""
+
+#: core/helpers.php:2487
+msgid "Pinterest"
+msgstr ""
+
+#: core/helpers.php:2488
+msgid "LinkedIN"
+msgstr ""
+
+#: core/helpers.php:2489
+msgid "WhatsApp"
+msgstr ""
+
+#: core/helpers.php:2490
+msgid "vKontakte"
+msgstr ""
+
+#: core/helpers.php:2491
+msgid "Reddit"
+msgstr ""
+
+#: core/helpers.php:2492
+msgid "StumbleUpon"
+msgstr ""
+
+#: core/menus.php:13
+msgid "404 Menu"
+msgstr ""
+
+#: core/menus.php:113
+msgid "Mega Menu (classic)"
+msgstr ""
+
+#: core/menus.php:107
+msgid "Mega Menu (display posts from category)"
+msgstr ""
+
+#: core/modules.php:192
+msgid "articles"
+msgstr ""
+
+#: core/modules.php:256
+msgid "Apply slider"
+msgstr ""
+
+#: core/modules.php:257
+msgid "Add pagination"
+msgstr ""
+
+#: core/modules.php:258
+msgid "Add action link"
+msgstr ""
+
+#: core/sidebars.php:12
+msgid "Default Sidebar"
+msgstr ""
+
+#: core/sidebars.php:13
+msgid "This is default sidebar."
+msgstr ""
+
+#: core/sidebars.php:25
+msgid "Default Sticky Sidebar"
+msgstr ""
+
+#: core/sidebars.php:26
+msgid "This is default sticky sidebar. Sticky means that it will be always pinned to top while you are scrolling through your website content."
+msgstr ""
+
+#: core/sidebars.php:60
+msgid "Footer Column 1"
+msgstr ""
+
+#: core/sidebars.php:61
+msgid "This is sidebar to use in footer area column 1."
+msgstr ""
+
+#: core/sidebars.php:73
+msgid "Footer Column 2"
+msgstr ""
+
+#: core/sidebars.php:74
+msgid "This is sidebar to use in footer area column 2."
+msgstr ""
+
+#: core/sidebars.php:87
+msgid "Footer Column 3"
+msgstr ""
+
+#: core/sidebars.php:88
+msgid "This is sidebar to use in footer area column 3."
+msgstr ""
+
+#: core/translate.php:8
+msgid " Load more"
+msgstr ""
+
+#: core/translate.php:9
+msgid "Read more"
+msgstr ""
+
+#: core/translate.php:10
+msgid "Add Comment"
+msgstr ""
+
+#: core/translate.php:11
+msgid "1 Comment"
+msgstr ""
+
+#: core/translate.php:12, core/translate.php:35
+msgid "% Comments"
+msgstr ""
+
+#: core/translate.php:13
+msgid "Newer Entries"
+msgstr ""
+
+#: core/translate.php:14
+msgid "Older Entries"
+msgstr ""
+
+#: core/translate.php:16
+msgid "Previous"
+msgstr ""
+
+#: core/translate.php:17
+msgid "Category - "
+msgstr ""
+
+#: core/translate.php:18
+msgid "Tag - "
+msgstr ""
+
+#: core/translate.php:19
+msgid "Author - "
+msgstr ""
+
+#: core/translate.php:20
+msgid "Archive - "
+msgstr ""
+
+#: core/translate.php:21
+msgid "Search Results For - "
+msgstr ""
+
+#: core/translate.php:22
+msgid "Type here to search..."
+msgstr ""
+
+#: core/translate.php:23
+msgid "ago"
+msgstr ""
+
+#: core/translate.php:24
+msgid "Written by"
+msgstr ""
+
+#: core/translate.php:25
+msgid "by"
+msgstr ""
+
+#: core/translate.php:27
+msgid "min read"
+msgstr ""
+
+#: core/translate.php:28
+msgid "You may also like"
+msgstr ""
+
+#: core/translate.php:29
+msgid "Latest articles"
+msgstr ""
+
+#: core/translate.php:31
+msgid "Prev"
+msgstr ""
+
+#: core/translate.php:32
+msgid "Page %s of %s"
+msgstr ""
+
+#: core/translate.php:33
+msgid "View all posts"
+msgstr ""
+
+#: core/translate.php:34
+msgid "About the author"
+msgstr ""
+
+#: core/translate.php:36
+msgid "Leave a comment"
+msgstr ""
+
+#: core/translate.php:37
+msgid "Reply"
+msgstr ""
+
+#: core/translate.php:38
+msgid "Nothing found"
+msgstr ""
+
+#: core/translate.php:39
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: core/translate.php:40
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: core/translate.php:41
+msgid "Leave a Comment"
+msgstr ""
+
+#: core/translate.php:42
+msgid "X"
+msgstr ""
+
+#: core/translate.php:43
+msgid "Post Comment"
+msgstr ""
+
+#: core/translate.php:44
+msgid "Comment"
+msgstr ""
+
+#: core/translate.php:50
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr ""
+
+#: core/translate.php:51
+msgid "404 error: Page not found"
+msgstr ""
+
+#: core/translate.php:52
+msgid "It seems that you got lost, but we are here to help"
+msgstr ""
+
+#: core/translate.php:53
+msgid "The page that you are looking for doesn&rsquo;t exist on this website. You may have accidentally mistyped the page address, or followed an expired link. Anyway, we will help you get back on track. Why don&rsquo;t you try one of these pages for starters."
+msgstr ""
+
+#: core/translate.php:54
+msgid "More"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:386, inc/tgm/class-tgm-plugin-activation.php:827, inc/tgm/class-tgm-plugin-activation.php:2533, inc/tgm/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:388, inc/tgm/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: inc/tgm/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:937, inc/tgm/class-tgm-plugin-activation.php:934
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1121, inc/tgm/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: inc/tgm/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: inc/tgm/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgm/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "%1$s Installed successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+msgid "%1$s Installed and activated successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: template-no-title.php:3
+msgid "Page without title"
+msgstr ""
+
+#: template-parts/content-none.php:4
+msgid "No posts can be found on this page. Go and <a href=\"%1$s\">add some new posts</a>."
+msgstr ""
+
+#: template-parts/footer-menu.php:7
+msgid "Click here to add footer navigation"
+msgstr ""
+
+#: template-parts/headers/navigation.php:15, template-parts/headers/sticky-navigation.php:16
+msgid "Click here to add navigation menu"
+msgstr ""
+
+#: template-parts/modules/cpt.php:31, template-parts/modules/posts.php:31
+msgid "No posts match your criteria. Please choose different options in <a href=\"%s\">Module Generator</a>."
+msgstr ""
+
+#: template-parts/modules/empty.php:3
+msgid "Oooops!"
+msgstr ""
+
+#: template-parts/modules/empty.php:5
+msgid "You don't have any modules yet. Hurry up and create your <a href=\"%s\">first module</a>."
+msgstr ""
+
+#: template-parts/social-menu.php:19
+msgid "Click here to add social menu"
+msgstr ""
+
+#: template-parts/top-navigation.php:7
+msgid "Click here to add top navigation"
+msgstr ""

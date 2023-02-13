@@ -1,0 +1,57 @@
+<?php
+
+/* This is global array of translation strings used for internal theme translation */
+
+global $vce_translate;
+
+$vce_translate = array(
+	'load_more' => array( 'option_title' => 'Load more', 'translated' => esc_html__( ' Load more', 'voice' ), 'option_desc' => 'Load more button title' ),
+	'read_more' => array( 'option_title' => 'Read more', 'translated' => esc_html__( 'Read more', 'voice' ), 'option_desc' => 'Read more button title' ),
+	'no_comments' => array( 'option_title' => 'Add Comment', 'translated' => esc_html__( 'Add Comment', 'voice' ), 'option_desc' => 'Comment meta data (if zero comments)' ),
+	'one_comment' => array( 'option_title' => '1 Comment', 'translated' => esc_html__( '1 Comment', 'voice' ), 'option_desc' => 'Comment meta data (if 1 comment)' ),
+	'multiple_comments' => array( 'option_title' => '% Comments', 'translated' => esc_html__( '% Comments', 'voice' ), 'option_desc' => 'Comment meta data (if more than 1 comments)' ),
+	'newer_entries' => array( 'option_title' => 'Newer Entries', 'translated' => esc_html__( 'Newer Entries', 'voice' ), 'option_desc' => 'Navigation button for newer entries' ),
+	'older_entries' => array( 'option_title' => 'Older Entries', 'translated' => esc_html__( 'Older Entries', 'voice' ), 'option_desc' => 'Navigation button for older entries' ),
+	'next_posts' => array( 'option_title' => 'Next', 'translated' => esc_html__( 'Next', 'voice' ), 'option_desc' => 'Navigation button for next posts' ),
+	'previous_posts' => array( 'option_title' => 'Previous', 'translated' => esc_html__( 'Previous', 'voice' ), 'option_desc' => 'Navigation button for previous posts' ),
+	'category' => array( 'option_title' => 'Category - ', 'translated' => esc_html__( 'Category - ', 'voice' ), 'option_desc' => 'Category archive title' ),
+	'tag' => array( 'option_title' => 'Tag - ', 'translated' => esc_html__( 'Tag - ', 'voice' ), 'option_desc' => 'Tag archive title' ),
+	'author' => array( 'option_title' => 'Author - ', 'translated' => esc_html__( 'Author - ', 'voice' ), 'option_desc' => 'Author archive title' ),
+	'archive' => array( 'option_title' => 'Archive - ', 'translated' => esc_html__( 'Archive - ', 'voice' ), 'option_desc' => 'Archive title i.e. date archives etc...' ),
+	'search_results_for' => array( 'option_title' => 'Search Results For - ', 'translated' => esc_html__( 'Search Results For - ', 'voice' ), 'option_desc' => 'Title for search results template' ),
+	'search_form' => array( 'option_title' => 'Type here to search...', 'translated' => esc_html__( 'Type here to search...', 'voice' ), 'option_desc' => 'Search input field text' ),
+	'ago' => array( 'option_title' => 'ago', 'translated' => esc_html__( 'ago', 'voice' ), 'option_desc' => 'Used if date format is set to "time ago" in Theme options -> Misc.' ),
+	'written_by' => array( 'option_title' => 'Written by', 'translated' => esc_html__( 'Written by', 'voice' ), 'option_desc' => 'Used for author link with image on single posts' ),
+	'by_author' => array( 'option_title' => 'by', 'translated' => esc_html__( 'by', 'voice' ), 'option_desc' => 'Used for author link in post meta data' ),
+	'views' => array( 'option_title' => 'Views', 'translated' => esc_html__( 'Views', 'voice' ), 'option_desc' => 'Used in post meta data' ),
+	'min_read' => array( 'option_title' => 'min read', 'translated' => esc_html__( 'min read', 'voice' ), 'option_desc' => 'Used in post meta (reading time)' ),
+	'related_title' => array( 'option_title' => 'You may also like', 'translated' => esc_html__( 'You may also like', 'voice' ), 'option_desc' => 'Used for "related posts" title' ),
+	'latest_posts' => array( 'option_title' => 'Latest articles', 'translated' => esc_html__( 'Latest articles', 'voice' ), 'option_desc' => 'Used for box title if home page in reading setting is set to "latest posts"' ),
+	'next_page' => array( 'option_title' => 'Next', 'translated' => esc_html__( 'Next', 'voice' ), 'option_desc' => 'Next button title for paginated post' ),
+	'prev_page' => array( 'option_title' => 'Prev', 'translated' => esc_html__( 'Prev', 'voice' ), 'option_desc' => 'Previous button title for paginated post' ),
+	'page_of' => array( 'option_title' => 'Page %s of %s', 'translated' => esc_html__( 'Page %s of %s', 'voice' ), 'option_desc' => 'Used on paginated post navigation' ),
+	'view_all_posts' => array( 'option_title' => 'View all posts', 'translated' => esc_html__( 'View all posts', 'voice' ), 'option_desc' => 'Used in author box' ),
+	'about_author' => array( 'option_title' => 'About the author', 'translated' => esc_html__( 'About the author', 'voice' ), 'option_desc' => 'Author box title' ),
+	'comments_number' => array( 'option_title' => '% Comments', 'translated' => esc_html__( '% Comments', 'voice' ), 'option_desc' => 'Comments area main title (if post has comments)' ),
+	'leave_a_comment' => array( 'option_title' => 'Leave a comment', 'translated' => esc_html__( 'Leave a comment', 'voice' ), 'option_desc' => 'Comments area title (if post has no comments)' ),
+	'reply_comment' => array( 'option_title' => 'Reply', 'translated' => esc_html__( 'Reply', 'voice' ), 'option_desc' => 'Comment reply button text' ),
+	'nothing_found' => array( 'option_title' => 'Nothing found', 'translated' => esc_html__( 'Nothing found', 'voice' ), 'option_desc' => 'Box title if posts are not found on the page' ),
+	'nothing_found_search' => array( 'option_title' => 'Sorry, but nothing matched your search terms. Please try again with some different keywords.', 'translated' => esc_html__( 'Sorry, but nothing matched your search terms. Please try again with some different keywords.', 'voice' ), 'option_desc' => 'Text if posts are not found on the page' ),
+	'nothing_found_text' => array( 'option_title' => 'It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help.', 'translated' => esc_html__( 'It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help.', 'voice' ) ),
+	'leave_a_reply' => array( 'option_title' => 'Leave a Comment', 'translated' => esc_html__( 'Leave a Comment', 'voice' ), 'option_desc' => 'Comments area reply text' ),
+	'cancel_reply_link' => array( 'option_title' => 'X', 'translated' => esc_html__( 'X', 'voice' ), 'option_desc' => 'Comments area cancel reply link text' ),
+	'comment_submit' => array( 'option_title' => 'Post Comment', 'translated' => esc_html__( 'Post Comment', 'voice' ), 'option_desc' => 'Comment form submit button' ),
+	'comment_field' => array( 'option_title' => 'Comment', 'translated' => esc_html__( 'Comment', 'voice' ), 'option_desc' => 'Comment form field text area title' ),
+	'comment_name' => array( 'option_title' => 'Name', 'translated' => esc_html__( 'Name', 'voice' ), 'option_desc' => 'Comment form name field tilte' ),
+	'comment_email' => array( 'option_title' => 'Email', 'translated' => esc_html__( 'Email', 'voice' ), 'option_desc' => 'Comment form email field title' ),
+	'comment_website' => array( 'option_title' => 'Website', 'translated' => esc_html__( 'Website', 'voice' ), 'option_desc' => 'Comment form website field title' ),
+	'comment_cookie_gdpr' => array( 'option_title' =>  'Comment GDPR cookie', 'translated' => esc_html__( 'Save my name, email, and website in this browser for the next time I comment.', 'voice' ), 'option_desc' => 'Comment GDPR cookie label' ),
+	'must_log_in' => array( 'option_title' => 'You must be <a href="%s">logged in</a> to post a comment.', 'translated' => wp_kses_post( 'You must be <a href="%s">logged in</a> to post a comment.', 'voice' ) ),
+	'logged_in_as' => array( 'option_title' => 'Logged in as <a href="%1$s">%2$s</a>. <a href="%3$s" title="Log out of this account">Log out?</a>', 'translated' => wp_kses_post( __( 'Logged in as <a href="%1$s">%2$s</a>. <a href="%3$s" title="Log out of this account">Log out?</a>', 'voice' ) ) ),
+	'404_title' => array( 'option_title' => '404 error: Page not found', 'translated' => esc_html__( '404 error: Page not found', 'voice' ), 'option_desc' => '404 error page' ),
+	'404_subtitle' => array( 'option_title' => 'It seems that you got lost, but we are here to help', 'translated' => esc_html__( 'It seems that you got lost, but we are here to help', 'voice' ), 'option_desc' => '404 error page' ),
+	'404_text' => array( 'option_title' => 'The page that you are looking for doesn&rsquo;t exist on this website. You may have accidentally mistyped the page address, or followed an expired link. Anyway, we will help you get back on track. Why don&rsquo;t you try one of these pages for starters.', 'translated' => esc_html__( 'The page that you are looking for doesn&rsquo;t exist on this website. You may have accidentally mistyped the page address, or followed an expired link. Anyway, we will help you get back on track. Why don&rsquo;t you try one of these pages for starters.', 'voice' ), 'option_desc' => '404 error page' ),
+	'more' => array( 'option_title' => 'More', 'translated' => esc_html__( 'More', 'voice' ), 'option_desc' => 'More link label in responsive navigation if option to display top bar navigation under one group is enabled' ),
+);
+
+?>
